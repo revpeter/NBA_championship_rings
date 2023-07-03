@@ -1,6 +1,6 @@
 // Load the CSV file using AJAX
-$.get("./data/allChPlayer_data.json", function (data) {
-
+readJsonFile("https://revpeter.github.io/nba_championship_rings/data/allChPlayer_data.json", function(text){
+  var data = JSON.parse(text);
  
   var allAge = data.map(function(item){
     return item.AGE

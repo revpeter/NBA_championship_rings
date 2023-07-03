@@ -1,7 +1,6 @@
 // Plot data
 readJsonFile("https://revpeter.github.io/nba_championship_rings/data/chDf_data.json", function(text){
-    var data = JSON.parse(text);
-    console.log(data);
+  var data = JSON.parse(text);
   
   var bubbleColors = {
     DEN:{"border":"#FEC524", "fill":"#0E2240"},
