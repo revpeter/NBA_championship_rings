@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>NBA bajnokok</title>
+  <link rel="stylesheet" href="./src/style.css">
+  
+
+</head>
+
+<body>
+<script src="https://code.highcharts.com/highcharts.js"></script><script src="https://code.highcharts.com/highcharts-more.js"></script><script src="https://code.highcharts.com/highcharts-3d.js"></script><script src="https://code.highcharts.com/modules/stock.js"></script><script src="https://code.highcharts.com/maps/modules/map.js"></script><script src="https://code.highcharts.com/modules/gantt.js"></script><script src="https://code.highcharts.com/modules/exporting.js"></script><script src="https://code.highcharts.com/modules/parallel-coordinates.js"></script><script src="https://code.highcharts.com/modules/accessibility.js"></script><script src="https://code.highcharts.com/modules/annotations-advanced.js"></script><script src="https://code.highcharts.com/modules/data.js"></script><script src="https://code.highcharts.com/modules/draggable-points.js"></script><script src="https://code.highcharts.com/modules/static-scale.js"></script><script src="https://code.highcharts.com/modules/broken-axis.js"></script><script src="https://code.highcharts.com/modules/heatmap.js"></script><script src="https://code.highcharts.com/modules/tilemap.js"></script><script src="https://code.highcharts.com/modules/timeline.js"></script><script src="https://code.highcharts.com/modules/treemap.js"></script><script src="https://code.highcharts.com/modules/treegraph.js"></script><script src="https://code.highcharts.com/modules/item-series.js"></script><script src="https://code.highcharts.com/modules/drilldown.js"></script><script src="https://code.highcharts.com/modules/histogram-bellcurve.js"></script><script src="https://code.highcharts.com/modules/bullet.js"></script><script src="https://code.highcharts.com/modules/funnel.js"></script><script src="https://code.highcharts.com/modules/funnel3d.js"></script><script src="https://code.highcharts.com/modules/pyramid3d.js"></script><script src="https://code.highcharts.com/modules/networkgraph.js"></script><script src="https://code.highcharts.com/modules/pareto.js"></script><script src="https://code.highcharts.com/modules/pattern-fill.js"></script><script src="https://code.highcharts.com/modules/price-indicator.js"></script><script src="https://code.highcharts.com/modules/sankey.js"></script><script src="https://code.highcharts.com/modules/arc-diagram.js"></script><script src="https://code.highcharts.com/modules/dependency-wheel.js"></script><script src="https://code.highcharts.com/modules/series-label.js"></script><script src="https://code.highcharts.com/modules/solid-gauge.js"></script><script src="https://code.highcharts.com/modules/sonification.js"></script><script src="https://code.highcharts.com/modules/stock-tools.js"></script><script src="https://code.highcharts.com/modules/streamgraph.js"></script><script src="https://code.highcharts.com/modules/sunburst.js"></script><script src="https://code.highcharts.com/modules/variable-pie.js"></script><script src="https://code.highcharts.com/modules/variwide.js"></script><script src="https://code.highcharts.com/modules/vector.js"></script><script src="https://code.highcharts.com/modules/venn.js"></script><script src="https://code.highcharts.com/modules/windbarb.js"></script><script src="https://code.highcharts.com/modules/wordcloud.js"></script><script src="https://code.highcharts.com/modules/xrange.js"></script><script src="https://code.highcharts.com/modules/no-data-to-display.js"></script><script src="https://code.highcharts.com/modules/drag-panes.js"></script><script src="https://code.highcharts.com/modules/debugger.js"></script><script src="https://code.highcharts.com/modules/dumbbell.js"></script><script src="https://code.highcharts.com/modules/lollipop.js"></script><script src="https://code.highcharts.com/modules/cylinder.js"></script><script src="https://code.highcharts.com/modules/organization.js"></script><script src="https://code.highcharts.com/modules/dotplot.js"></script><script src="https://code.highcharts.com/modules/marker-clusters.js"></script><script src="https://code.highcharts.com/modules/hollowcandlestick.js"></script><script src="https://code.highcharts.com/modules/heikinashi.js"></script>
+
+<!-- partial:index.partial.html -->
+<main>
+	<div>
+		<h1>NBA bajnokok</h1>
+		<p><em>sadasdsad</em></p>
+		
+		<section id="introduction">
+			<h2>Introduction</h2>
+			<p>...</p>
+		</section>
+
+		<section id="sec_champMap">
+			<h2>NBA bajnokok 1960-2023</h2>
+			<figure>
+				<div id="bubble-chart"></div>
+			</figure>
+		</section>
+
+		<section id="sec_champNum">
+			<h2>Játékosonként a bajnoki címek száma</h2>
+			<figure>
+				<div id="chNum"></div>
+			</figure>
+		</section>
+
+		<section id="sec_champAge">
+			<h2>Játékosok életkora</h2>
+			<form id="myForm">Játékosok szűrése bajnoki címek száma alapján:
+				<input type="checkbox" name="rfile" value="1" checked><label >1</label>
+				<input type="checkbox" name="rfile" value="2" checked><label >2</label>
+				<input type="checkbox" name="rfile" value="3" checked><label >3</label>
+				<input type="checkbox" name="rfile" value="4" checked><label >4</label>
+				<input type="checkbox" name="rfile" value="5" checked><label >5</label>
+				<input type="checkbox" name="rfile" value="6" checked><label >6</label>
+				<input type="checkbox" name="rfile" value="7" checked><label >7</label>
+				<input type="checkbox" name="rfile" value="8" checked><label >8</label>
+				<button type="button" id="checkAllButton" onclick="checkAllCheckboxes();getCheckboxValues()">Összes</button>
+				<button type="button" id="checkAllButton" onclick="unCheckAllCheckboxes();getCheckboxValues()">Egyik sem</button>
+			</form>
+			<div id="expanders-wrapper">
+				<div id="eletkor">
+					<figure>
+						<div id="eletkor_hist"></div>
+					</figure>
+				</div>
+
+				<div id="eletkor">
+					<figure>
+						<div id="eletkor_scatter"></div>
+					</figure>
+				</div>
+			</div>
+		</section>
+
+		<section id="links">
+			<h2>Links</h2>
+			<p>...</p>
+		</section>
+	</div>
+	<nav class="section-nav">
+		<ol>
+			<li><a href="#introduction">Introduction</a></li>
+			<li><a href="#sec_champMap">NBA bajnokok 1960-2023</a></li>
+			<li><a href="#sec_champNum">Játékosonként a bajnoki címek száma</a></li>
+			<li class=""><a href="#sec_champAge">Játékosok életkora</a></li>
+			<li class=""><a href="#links">Links</a></li>
+		</ol>
+	</nav>
+</main>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+<script src="./src/script.js"></script>
+<script src="./src/heatmap.js"></script>
+<script src="./src/eletkor_hist.js"></script>
+<script src="./src/champion_bubble_plot.js"></script>
+<script src="./src/ch_num.js"></script>
+<script src="./src/eletkor_scatter.js"></script>
+
+</body>
+</html>
