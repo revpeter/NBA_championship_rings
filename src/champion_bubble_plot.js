@@ -1,5 +1,9 @@
 // Plot data
-$.getJSON("https://revpeter.github.io/nba_championship_rings/data/chDf_data.json", function (data) {
+fetch('data/chDf_data.json.json')
+  .then(response => response.json())
+  .then(data => {
+    // Use the JSON data here
+    console.log(data);
   
   var bubbleColors = {
     DEN:{"border":"#FEC524", "fill":"#0E2240"},
