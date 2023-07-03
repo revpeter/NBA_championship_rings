@@ -52,24 +52,21 @@ function getCheckboxValues() {
 };
 
 
-var options = {
-	chart: {
-	  type: 'bar'
-	},
-	series: [{
-	  name: 'sales',
-	  data: [4,1,4,11,16,36,84,392]
-	}],
-	xaxis: {
-	  categories: [8,7,6,5,4,3,2,1]
-	},
-	yaxis: {
-		max:100
-	}
-  }
-  
-  var chart = new ApexCharts(document.querySelector("#kecske"), options);
-  
-  chart.render();
+function readJsonFile(file, callback) {
+    var rawFile = new XMLHttpRequest();
+    rawFile.overrideMimeType("application/json");
+    rawFile.open("GET", file, true);
+    rawFile.onreadystatechange = function() {
+        if (rawFile.readyState === 4 && rawFile.status == "200") {
+            callback(rawFile.responseText);
+        }
+    }
+    rawFile.send(null);
+};
+
+readJsonFile("https://revpeter.github.io/nba_championship_rings/data/chDf_data.json", function(text){
+    var data = JSON.parse(text);
+    console.log(data);
+});
 
   
