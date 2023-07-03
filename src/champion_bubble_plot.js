@@ -1,8 +1,6 @@
 // Plot data
-fetch('data/chDf_data.json.json')
-  .then(response => response.json())
-  .then(data => {
-    // Use the JSON data here
+readJsonFile("https://revpeter.github.io/nba_championship_rings/data/chDf_data.json", function(text){
+    var data = JSON.parse(text);
     console.log(data);
   
   var bubbleColors = {

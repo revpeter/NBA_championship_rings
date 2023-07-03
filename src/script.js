@@ -64,9 +64,4 @@ function readJsonFile(file, callback) {
     rawFile.send(null);
 };
 
-readJsonFile("https://revpeter.github.io/nba_championship_rings/data/chDf_data.json", function(text){
-    var data = JSON.parse(text);
-    console.log(data);
-});
-
   
