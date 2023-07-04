@@ -31,7 +31,7 @@ Highcharts.chart('chNum', {
         ],
         dataLabels: {
             enabled: true,
-            format: '{point.label}',
+            format: '<b>{point.label}</b>',
             style: {
                 textOutline: '3px contrast'
             }
@@ -43,6 +43,10 @@ Highcharts.chart('chNum', {
         startAngle: -100,
         endAngle: 100
     }],
+    tooltip: {
+        headerFormat: "",
+        pointFormat: "<b>{point.label}</b> bajnoki címe <b>{point.y}</b> játékosnak van"
+    },
 
     responsive: {
         rules: [{
