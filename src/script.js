@@ -64,4 +64,32 @@ function readJsonFile(file, callback) {
     rawFile.send(null);
 };
 
+function processData(data, columnA, columnB) {
+	const dataArray = Object.values(data);
+  
+	const groupedData = dataArray.reduce((acc, obj) => {
+	  const key = obj[columnA];
+  
+	  if (!acc[key]) {
+		acc[key] = [];
+	  }
+  
+	  acc[key].push(obj[columnB]);
+  
+	  return acc;
+	}, {});
+	console.log(groupedData);
+	const accMean = Object.entries(groupedData).reduce((acc, [key, values]) => {
+	  const mean = values.reduce((sum, value) => sum + value, 0) / values.length;
+	  acc[key] = mean;
+
+	  return acc;
+	}, {});
+	
+	var result = [];
+	for (const [key, value] of Object.entries(accMean)) {
+		result.push({x:Math.floor(new Date(key).getTime()), y:value, season:`${key}-${parseInt(key)+1}`});
+	}
+	return result;
+};
   
