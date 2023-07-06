@@ -23,8 +23,8 @@ readJsonFile("https://revpeter.github.io/nba_championship_rings/data/allChPlayer
   var chart = Highcharts.chart('eletkor_hist', {
     chart: {
       type: 'column',
-      height: 700,
-      width: 500,
+      height: 600,
+      width: 380,
       zooming: {
         mouseWheel: false
       }

@@ -7,10 +7,14 @@
 
     
     var dataProd = processData(data, "SEASON", "AGE"); 
-    console.log(dataProd);
+
     const chart = Highcharts.stockChart('range_plot', {
         chart: {
-            height: 500
+            height: 500,
+            width:1000,
+            zooming: {
+                mouseWheel: false
+              }
         },
 
         title: {

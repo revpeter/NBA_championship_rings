@@ -75,10 +75,10 @@ function processData(data, columnA, columnB) {
 	  }
   
 	  acc[key].push(obj[columnB]);
-  
+	  
 	  return acc;
 	}, {});
-	console.log(groupedData);
+	//console.log(groupedData);
 	const accMean = Object.entries(groupedData).reduce((acc, [key, values]) => {
 	  const mean = values.reduce((sum, value) => sum + value, 0) / values.length;
 	  acc[key] = mean;
@@ -88,6 +88,7 @@ function processData(data, columnA, columnB) {
 	
 	var result = [];
 	for (const [key, value] of Object.entries(accMean)) {
+
 		result.push({x:Math.floor(new Date(key).getTime()), y:value, season:`${key}-${parseInt(key)+1}`});
 	}
 	return result;

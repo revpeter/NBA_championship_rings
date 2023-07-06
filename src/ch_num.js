@@ -2,6 +2,7 @@ Highcharts.chart('chNum', {
 
     chart: {
         type: 'item',
+        width:950,
         height: 600,
         zooming: {
             mouseWheel: false

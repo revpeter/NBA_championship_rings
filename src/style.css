@@ -66,7 +66,7 @@ h1 {
 main {
 	display: grid;
 	grid-template-columns: 1fr 15em;
-	max-width: 100em;
+	max-width: 100%;
 	width: 90%;
 	margin: 0 auto;
 }
@@ -81,27 +81,12 @@ section {
 	border-radius: 5px;
 }
 
-#kecske {
-	max-width: 1050px;
-	max-height: 1000px;
-	margin: 35px auto;
-	background-color: rgb(255, 255, 255);
-  }
-
-#container {
-max-width: 1050px;
-max-height: 1000px;
-margin: 35px auto;
-background-color: rgb(255, 255, 255);
-}
-
-#bubble-chart {
-	max-width: 1050px;
-	max-height: 1000px;
-	margin: 35px auto;
-	background-color: rgb(255, 255, 255);
-}
-
 #expanders-wrapper {
 	display: flex;
+	justify-content: center;
+}
+
+#bubble-chart, #chNum, #range_plot {
+	display: flex;
+	justify-content: center;
 }
