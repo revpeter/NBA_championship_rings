@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>NBA bajnokok</title>
+  <link rel="stylesheet" href="./src/style.css">
+</head>
+
+<body>
+	
+<main>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.3.2/echarts.min.js"></script>
+	<div>
+		<h1>NBA bajnokok 1960-2023 között</h1>
+		<p><em>Az 1960 és 2023 közötti szezonok bajnok csapatai és játékosai.</em></p>
+		
+		<section id="introduction">
+			<h2>Leírás</h2>
+			<p></p>
+		</section>
+
+		<section id="sec_champMap">
+			<h2>NBA bajnok csapatok</h2>
+			<div id="bubble-chart" style="width: 60%; height: 600px;"></div>
+		</section>
+
+		<section id="sec_champNum">
+			<h2>Bajnoki címek száma</h2>
+			<figure>
+				<div id="chNum"></div>
+			</figure>
+		</section>
+
+		<section id="sec_champAge">
+			<h2>Játékosok életkora</h2>
+			<form id="myForm">Játékosok szűrése bajnoki címek száma alapján:
+				<input type="checkbox" name="rfile" value="1" checked><label >1</label>
+				<input type="checkbox" name="rfile" value="2" checked><label >2</label>
+				<input type="checkbox" name="rfile" value="3" checked><label >3</label>
+				<input type="checkbox" name="rfile" value="4" checked><label >4</label>
+				<input type="checkbox" name="rfile" value="5" checked><label >5</label>
+				<input type="checkbox" name="rfile" value="6" checked><label >6</label>
+				<input type="checkbox" name="rfile" value="7" checked><label >7</label>
+				<input type="checkbox" name="rfile" value="8" checked><label >8</label>
+				<button type="button" id="checkAllButton" onclick="checkAllCheckboxes();getCheckboxValues()">Összes</button>
+				<button type="button" id="checkAllButton" onclick="unCheckAllCheckboxes();getCheckboxValues()">Egyik sem</button>
+			</form>
+			<div id="expanders-wrapper">
+				<div id="eletkor">
+					<figure>
+						<div id="eletkor_hist"></div>
+					</figure>
+				</div>
+
+				<div id="eletkor">
+					<figure>
+						<div id="eletkor_scatter"></div>
+					</figure>
+				</div>
+			</div>
+		</section>
+
+		<section id="sec_meanAge">
+			<h2>Átlagos életkor</h2>
+			<figure>
+				<div id ="range_plot"></div>
+			</figure>
+		</section>
+
+		<section>
+			<h2>New section</h2>
+			<p>...</p>
+		</section>
+
+		<!-- <section id="sec_tableauEmbedTest">
+			<h2>New sec.</h2>
+			<div class='tableauPlaceholder' id='viz1688712616968' style='position: relative'>
+				<noscript>
+					<a href='#'><img alt='Story 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;Pontoksvonalak&#47;Story1&#47;1_rss.png' style='border: none' /></a>
+				</noscript>
+				<object class='tableauViz'  style='display:none;'>
+					<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+					<param name='embed_code_version' value='3' />
+					<param name='site_root' value='' />
+					<param name='name' value='Pontoksvonalak&#47;Story1' />
+					<param name='tabs' value='no' />
+					<param name='toolbar' value='yes' />
+					<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;Pontoksvonalak&#47;Story1&#47;1.png' />
+					<param name='animate_transition' value='yes' />
+					<param name='display_static_image' value='yes' />
+					<param name='display_spinner' value='yes' />
+					<param name='display_overlay' value='yes' />
+					<param name='display_count' value='yes' />
+					<param name='language' value='en-US' />
+				</object>
+			</div>
+			<script type='text/javascript'>
+				var divElement = document.getElementById('viz1688712616968');
+				var vizElement = divElement.getElementsByTagName('object')[0];
+				vizElement.style.width='1200px';vizElement.style.height='931px';
+				var scriptElement = document.createElement('script');
+				scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+				vizElement.parentNode.insertBefore(scriptElement, vizElement);
+			</script>
+		</section> -->
+	</div>
+	<nav class="section-nav">
+		<ol>
+			<li><a href="#introduction">Leírás</a></li>
+			<li><a href="#sec_champMap">NBA bajnok csapatok</a></li>
+			<li><a href="#sec_champNum">Bajnoki címek száma</a></li>
+			<li class=""><a href="#sec_champAge">Játékosok életkora</a></li>
+			<li class=""><a href="#sec_meanAge">Átlagos életkor</a></li>
+		</ol>
+	</nav>
+</main>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="./src/script.js"></script>
+<script src="./echarts/champion_bubble_plot_echart.js"></script>
+
+
+</body>
+</html>
