@@ -1,3 +1,9 @@
+fetch("https://smcqv7b7ty2tw4vknuadbqmrgu0bzize.lambda-url.eu-central-1.on.aws/")
+.then(data => {
+   console.log(data);
+})
+
+
 window.addEventListener('DOMContentLoaded', () => {
 
 	const observer = new IntersectionObserver(
