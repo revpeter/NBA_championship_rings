@@ -58,8 +58,8 @@ readJsonFile("https://revpeter.github.io/nba_championship_rings/data/chDf_data.j
   Highcharts.chart('bubble-chart', {
     chart: {
       type: 'bubble',
+      width: 850,
       height: 700,
-      width: 950,
       zooming: {
         mouseWheel: false
       }

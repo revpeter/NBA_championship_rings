@@ -2,11 +2,11 @@
 
     // Load the dataset
     const data = await fetch(
-        "./data/boxplotData.json"
+        "https://revpeter.github.io/nba_championship_rings/data/boxplotData.json"
     ).then(response => response.json());
 
     const dataScatter = await fetch(
-      "./data/boxplotScatterData.json"
+      "https://revpeter.github.io/nba_championship_rings/data/boxplotScatterData.json"
     ).then(response=> response.json());
 
     console.log(dataScatter);
@@ -27,7 +27,7 @@
                   type: 'boxplot',
                   config: {
                     itemNameFormatter: function (params) {
-                      return (params.value+1) + " gyűrű";
+                      return (params.value+1) ;
                     }
                   }
                 }
@@ -50,6 +50,8 @@
             },
             xAxis: {
               type: 'category',
+              name: "Bajnoki címek száma",
+              nameLocation: "middle",
               boundaryGap: true,
               nameGap: 30,
               splitArea: {
@@ -81,7 +83,8 @@
                             Q3: <b>${params.data[4].toFixed(1)}</b><br>
                             Medián: <b>${params.data[3].toFixed(1)}</b><br>
                             Q1: <b>${params.data[2].toFixed(1)}</b><br>
-                            Min: <b>${params.data[1].toFixed(1)}</b> ${avg.toFixed(1)}`;
+                            Min: <b>${params.data[1].toFixed(1)}</b><br>
+                            Átlag: <b>${avg.toFixed(1)}</b>`;
                     }
                   },
               },
@@ -162,5 +165,14 @@
         chartScatter.setOption(createScatterOptions(params.dataIndex+1));
         console.log(params.dataIndex+1);
       });
-
+  
+    // Responsive chart
+    window.addEventListener('resize',function(){
+        chart.resize();
+    })
+    // Responsive chart
+    window.addEventListener('resize',function(){
+      chartScatter.resize();
+    })
+    
 })();

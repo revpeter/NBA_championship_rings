@@ -10,8 +10,8 @@
 
     const chart = Highcharts.stockChart('range_plot', {
         chart: {
-            height: 500,
-            width:1000,
+            type: "scatter",
+            zoomType: "xy",
             zooming: {
                 mouseWheel: false
               }
@@ -28,7 +28,6 @@
         series: [{
             name: '',
             data: dataProd,
-            type: 'scatter',
             threshold: null,
             label: {
                 enabled: false
@@ -67,6 +66,10 @@
             shadow: false,
             borderWidth: 0,
             backgroundColor: 'rgba(255,255,255,0.8)'
-        }
+        },
+
+
     });
+
+
 })();

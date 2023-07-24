@@ -51,31 +51,24 @@
 				<button type="button" id="checkAllButton" onclick="unCheckAllCheckboxes();getCheckboxValues()">Egyik sem</button>
 			</form>
 			<div id="expanders-wrapper">
-				<div id="eletkor">
-					<figure>
-						<div id="eletkor_hist"></div>
-					</figure>
-				</div>
-
-				<div id="eletkor">
-					<figure>
-						<div id="eletkor_scatter"></div>
-					</figure>
-				</div>
+				<div id="eletkor_hist" style="width: 40%; height: 600px;"></div>
+				<div style="border-left: 1px dashed rgb(59, 59, 59); height: 500px; margin-top: 50px;"></div>
+				<div id="eletkor_scatter" style="width: 60%; height: 600px;"></div>
 			</div>
 		</section>
 
 		<section id="sec_meanAge">
 			<h2>Átlagos életkor</h2>
-			<figure>
-				<div id ="range_plot"></div>
-			</figure>
+			<div id ="range_plot" style="width: 100%; height: 600px;"></div>
 		</section>
 
 		<section id="sec_boxplot">
-			<h2>New section</h2>
 			<div>
-				Y tengely:
+			<h2>Játszott idő, meccsek és bajnoki címek száma</h2>
+			Az 1960 és 2023 közötti szezonok bajnok csapatai és játékosai.
+			</div>
+			<div>
+				Boxplot y tengely:
 				<input type="radio" name="yAxis" id="op1" value="min/game" checked/><label for="op1">MIN/GP</label>
 				<input type="radio" name="yAxis" id="op2" value="min/rings"/><label for="op2">MIN/#CHAMP</label>
 				<input type="radio" name="yAxis" id="op3" value="game/rings"/><label for="op3">GP/#CHAMP</label>
@@ -94,7 +87,7 @@
 			<li><a href="#sec_champNum">Bajnoki címek száma</a></li>
 			<li><a href="#sec_champAge">Játékosok életkora</a></li>
 			<li><a href="#sec_meanAge">Átlagos életkor</a></li>
-			<li><a href="#sec_boxplot">Játszott idő, meccsek és gyűrűk száma</a></li>
+			<li><a href="#sec_boxplot">Játszott idő, meccsek és bajnoki címek száma</a></li>
 		</ol>
 	</nav>
 </main>

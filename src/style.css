@@ -65,7 +65,7 @@ h1 {
 /** page layout **/
 main {
 	display: grid;
-	grid-template-columns: 1fr 15em;
+	grid-template-columns: 85% 15em;
 	max-width: 100%;
 	width: 90%;
 	margin: 0 auto;
@@ -86,7 +86,8 @@ section {
 	justify-content: center;
 }
 
-#bubble-chart, #chNum, #range_plot {
+#bubble-chart, #chNum {
 	display: flex;
 	justify-content: center;
 }
+

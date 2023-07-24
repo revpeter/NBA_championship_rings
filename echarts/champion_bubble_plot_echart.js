@@ -114,6 +114,9 @@
 
     });
     
-
+    // Responsive chart
+    window.addEventListener('resize',function(){
+      chart.resize();
+    })
 
 })();
