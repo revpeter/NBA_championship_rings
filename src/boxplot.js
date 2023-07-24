@@ -5,9 +5,16 @@
         "./data/boxplotData.json"
     ).then(response => response.json());
 
+    const dataScatter = await fetch(
+      "./data/boxplotScatterData.json"
+    ).then(response=> response.json());
 
+    console.log(dataScatter);
+  
     var yAxisName = document.querySelector("input[name=yAxis]:checked").value;
-    
+    var rings = "8";
+    var colorList = ["#e01f54", "#001852", "#41aa74", "#5a2a27", "#a06cd5", "#004e89", "black", "#dc602e"];
+
     function createPlotOptions(group) {
         return {
             dataset: [
@@ -59,10 +66,12 @@
                 show: true
               }
             },
+            color: colorList,
             series: [
               {
                 name: 'boxplot',
                 type: 'boxplot',
+                colorBy: "data",
                 datasetIndex: 1,
                 tooltip: {
                     formatter: function(params) {
@@ -92,11 +101,51 @@
 
     };
 
+    function createScatterOptions(rings) {
+      return {
+        title: {
+          text: `Játékosok ${rings} bajnoki címmel`
+        },
+        xAxis: {
+          type:"value",
+          scale:true,
+          name: "MIN"
+        },
+        yAxis: {
+          type:"value",
+          scale:true,
+          name: "GP"
+        },
+        series: [
+          {
+            type: "scatter",
+            data: dataScatter[rings],
+            color: colorList[rings-1],
+            emphasis:{
+              scale: 1.5
+            }
+          }
+        ],
+        tooltip: {
+          type: "item",
+          formatter: function(params) {
+            console.log(params);
+            return `${params.data[2]} ${(params.data[0]/params.data[1]).toFixed(1)} ${(params.data[1]/rings).toFixed(1)}`;
+          }
+        },
 
+      }
+    };
+
+    // Create default charts
     var container = document.getElementById('boxplot');
     var chart = echarts.init(container);
     chart.setOption(createPlotOptions(yAxisName));
     
+    var containerScatter = document.getElementById('boxplotScatter');
+    var chartScatter = echarts.init(containerScatter);
+    chartScatter.setOption(createScatterOptions(rings));
+
     // Update data based on the filter
     var buttons = document.querySelectorAll('#op1, #op2, #op3');
     buttons.forEach(function(button) {
@@ -110,8 +159,8 @@
 
 
     chart.on('click', function(params) {
-        // Print name in console
-        console.log(params);
+        chartScatter.setOption(createScatterOptions(params.dataIndex+1));
+        console.log(params.dataIndex+1);
       });
 
 })();
