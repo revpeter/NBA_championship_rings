@@ -9,7 +9,7 @@
       "https://revpeter.github.io/nba_championship_rings/data/boxplotScatterData.json"
     ).then(response=> response.json());
 
-    console.log(dataScatter);
+    //console.log(dataScatter);
   
     var yAxisName = document.querySelector("input[name=yAxis]:checked").value;
     var rings = "8";
@@ -112,12 +112,17 @@
         xAxis: {
           type:"value",
           scale:true,
-          name: "MIN"
+          name: "MIN - Összes játszott perc a bajnok szezonokban",
+          nameLocation: "middle",
+          nameGap: 35
         },
         yAxis: {
           type:"value",
           scale:true,
-          name: "GP"
+          name: "GP - Összes mérkőzés a bajnoki szezonokban",
+          nameLocation: "middle",
+          nameRotation: "y",
+          nameGap: 40
         },
         series: [
           {
@@ -132,8 +137,10 @@
         tooltip: {
           type: "item",
           formatter: function(params) {
-            console.log(params);
-            return `${params.data[2]} ${(params.data[0]/params.data[1]).toFixed(1)} ${(params.data[1]/rings).toFixed(1)}`;
+            //console.log(params);
+            return `<b>${params.data[2]}</b><br>
+                    MIN/GP: ${(params.data[0]/params.data[1]).toFixed(1)}<br>
+                    GP/#CHAMP: ${(params.data[1]/rings).toFixed(1)}`;
           }
         },
 
@@ -163,7 +170,7 @@
 
     chart.on('click', function(params) {
         chartScatter.setOption(createScatterOptions(params.dataIndex+1));
-        console.log(params.dataIndex+1);
+        //console.log(params.dataIndex+1);
       });
   
     // Responsive chart
