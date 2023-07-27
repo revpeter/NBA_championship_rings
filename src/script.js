@@ -77,25 +77,31 @@ function processData(data, columnA, columnB) {
 	  const key = obj[columnA];
   
 	  if (!acc[key]) {
-		acc[key] = [];
+		acc[key] = {"AGE":[], "TEAM":[]};
 	  }
   
-	  acc[key].push(obj[columnB]);
+	  acc[key]["AGE"].push(obj[columnB]);
+
+	  if (acc[key]["TEAM"].length < 1){
+		acc[key]["TEAM"].push(obj["team_name"]);
+	  }
+	  
 	  
 	  return acc;
 	}, {});
 	//console.log(groupedData);
 	const accMean = Object.entries(groupedData).reduce((acc, [key, values]) => {
-	  const mean = values.reduce((sum, value) => sum + value, 0) / values.length;
-	  acc[key] = mean;
+	  //console.log(values);
+	  const mean = values["AGE"].reduce((sum, value) => sum + value, 0) / values["AGE"].length;
+	  acc[key] = {meanVal:mean, team_name:values["TEAM"][0]};
 
 	  return acc;
 	}, {});
-	
+	//console.log(accMean);
 	var result = [];
 	for (const [key, value] of Object.entries(accMean)) {
 
-		result.push({x:Math.floor(new Date(key).getTime()), y:value, season:`${key}-${parseInt(key)+1}`});
+		result.push({x:Math.floor(new Date(key).getTime()), y:value["meanVal"], season:`${key}-${parseInt(key)+1}`, team_name:value["team_name"]});
 	}
 	return result;
 };
