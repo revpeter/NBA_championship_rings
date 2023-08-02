@@ -17,14 +17,16 @@
               }
         },
 
-        title: {
-            text: 'Bajnok csapatok játékosainak az átlagos életkora'
-        },
-
         rangeSelector: {
             selected: -1
         },
-
+        yAxis: {
+            opposite: false,
+            title: {
+                text: "Átlagos életkor",
+                align: "middle"
+            }
+        },
         series: [{
             name: '',
             data: dataProd,
@@ -34,6 +36,9 @@
             }
         }],
         rangeSelector:{
+            buttonTheme: {
+                width: 50
+            },
             buttons: [{
                 type: 'year',
                 count: 5,
@@ -61,7 +66,7 @@
             pointFormat: "{point.team_name} {point.season}<br>Átlagos életkor:<b>{point.y}</b>",
             headerFormat: '',
             positioner: function () {
-                return { x: 0, y: 80 };
+                return { x: 60, y: 70 };
             },
             shadow: false,
             borderWidth: 0,

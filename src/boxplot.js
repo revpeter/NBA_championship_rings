@@ -119,7 +119,7 @@
         yAxis: {
           type:"value",
           scale:true,
-          name: "GP - Összes mérkőzés a bajnoki szezonokban",
+          name: "GP - Összes mérkőzés száma a bajnoki szezonokban",
           nameLocation: "middle",
           nameRotation: "y",
           nameGap: 40

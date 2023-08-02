@@ -19,7 +19,12 @@
 		
 		<section id="introduction">
 			<h2>Leírás</h2>
-			<p></p>
+				<h3>Cél, miez?</h3>
+					<p>Ez az oldalt amiatt hoztam létre mert kiváncsi voltam,. 1960 és 2023 között összegyűjtöttem a bajnos NBA csapatokat és azok játékosait. </p>
+				<h3>Adatok</h3>
+					<p>Az adatokat az <a href="https://github.com/swar/nba_api">nba_api</a> python könyvtárral gyüntöttem össze. Maga a script és a gyűjtött adatok <a href="https://github.com/revpeter/nba_championship_rings">itt</a> megtalálhatóak.</p>
+				<h3>Megvalósítás</h3>
+					<p></p>
 		</section>
 
 		<section id="sec_champMap">
@@ -58,17 +63,23 @@
 		</section>
 
 		<section id="sec_meanAge">
-			<h2>Átlagos életkor</h2>
+			<h2>Bajnok csapatok átlagos életkora</h2>
 			<div id ="range_plot" style="width: 100%; height: 600px;"></div>
 		</section>
 
 		<section id="sec_boxplot">
 			<div>
-			<h2>Játszott idő, meccsek és bajnoki címek száma</h2>
-			Az 1960 és 2023 közötti szezonok bajnok csapatai és játékosai.
+			<h2 style="padding-bottom: 0; margin-bottom: 0;">Játszott idő, mérkőzések és bajnoki címek száma</h2>
+			<p style="padding-top: 0; margin-top: 0; padding-bottom: 10px; font-size: 14px;">
+				MIN - Összes játszott perc a bajnok szezonokban <br>
+				GP - Összes mérkőzés száma a bajnoki szezonokban <br>
+				#CHAMP - Bajnoki címek száma <br>
+				A ball oldali ábrán egy boxplot-ra kattintva megjelennek az adott csoport játékosai.
+			
+			</p>
 			</div>
 			<div>
-				Boxplot y tengely:
+				Ball ábra y tengely:
 				<input type="radio" name="yAxis" id="op1" value="min/game" checked/><label for="op1">MIN/GP</label>
 				<input type="radio" name="yAxis" id="op2" value="min/rings"/><label for="op2">MIN/#CHAMP</label>
 				<input type="radio" name="yAxis" id="op3" value="game/rings"/><label for="op3">GP/#CHAMP</label>
@@ -86,8 +97,8 @@
 			<li><a href="#sec_champMap">NBA bajnok csapatok</a></li>
 			<li><a href="#sec_champNum">Bajnoki címek száma</a></li>
 			<li><a href="#sec_champAge">Játékosok életkora</a></li>
-			<li><a href="#sec_meanAge">Átlagos életkor</a></li>
-			<li><a href="#sec_boxplot">Játszott idő, meccsek és bajnoki címek száma</a></li>
+			<li><a href="#sec_meanAge">Bajnok csapatok átlagos életkora</a></li>
+			<li><a href="#sec_boxplot">Játszott idő, mérkőzések és bajnoki címek száma</a></li>
 		</ol>
 	</nav>
 </main>
