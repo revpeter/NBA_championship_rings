@@ -15,20 +15,10 @@
 	<script src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 	<div>
 		<h1>NBA bajnokok 1960-2023 között</h1>
-		<p><em>Az 1960 és 2023 közötti szezonok bajnok csapatai és játékosai.</em></p>
+		<p><em>A gyüjtött adatok és a megvalósításhoz szükséges kódok <a href="https://github.com/revpeter/nba_championship_rings">itt</a> elérhetőek.</em></p>
 		
-		<section id="introduction">
-			<h2>Leírás</h2>
-				<h3>Cél, miez?</h3>
-					<p>Ez az oldalt amiatt hoztam létre mert kiváncsi voltam,. 1960 és 2023 között összegyűjtöttem a bajnos NBA csapatokat és azok játékosait. </p>
-				<h3>Adatok</h3>
-					<p>Az adatokat az <a href="https://github.com/swar/nba_api">nba_api</a> python könyvtárral gyüntöttem össze. Maga a script és a gyűjtött adatok <a href="https://github.com/revpeter/nba_championship_rings">itt</a> megtalálhatóak.</p>
-				<h3>Megvalósítás</h3>
-					<p></p>
-		</section>
-
 		<section id="sec_champMap">
-			<h2>NBA bajnok csapatok</h2>
+			<h2>NBA bajnokok</h2>
 			<figure>
 				<div id="bubble-chart"></div>
 			</figure>
@@ -69,17 +59,17 @@
 
 		<section id="sec_boxplot">
 			<div>
-			<h2 style="padding-bottom: 0; margin-bottom: 0;">Játszott idő, mérkőzések és bajnoki címek száma</h2>
+			<h2>Játszott idő, mérkőzések és bajnoki címek száma</h2>
 			<p style="padding-top: 0; margin-top: 0; padding-bottom: 10px; font-size: 14px;">
-				MIN - Összes játszott perc a bajnok szezonokban <br>
-				GP - Összes mérkőzés száma a bajnoki szezonokban <br>
+				MIN - Összes játszott perc a bajnok szezonokban | 
+				GP - Összes mérkőzés száma a bajnoki szezonokban | 
 				#CHAMP - Bajnoki címek száma <br>
-				A ball oldali ábrán egy boxplot-ra kattintva megjelennek az adott csoport játékosai.
+				<b>A bal oldali ábrán egy boxplot-ra kattintva megjelennek az adott csoport játékosai a jobb oldali ábrán.</b>
 			
 			</p>
 			</div>
 			<div>
-				Ball ábra y tengely:
+				Bal oldali ábra y tengely:
 				<input type="radio" name="yAxis" id="op1" value="min/game" checked/><label for="op1">MIN/GP</label>
 				<input type="radio" name="yAxis" id="op2" value="min/rings"/><label for="op2">MIN/#CHAMP</label>
 				<input type="radio" name="yAxis" id="op3" value="game/rings"/><label for="op3">GP/#CHAMP</label>
@@ -93,8 +83,7 @@
 	</div>
 	<nav class="section-nav">
 		<ol>
-			<li><a href="#introduction">Leírás</a></li>
-			<li><a href="#sec_champMap">NBA bajnok csapatok</a></li>
+			<li><a href="#sec_champMap">NBA bajnokok</a></li>
 			<li><a href="#sec_champNum">Bajnoki címek száma</a></li>
 			<li><a href="#sec_champAge">Játékosok életkora</a></li>
 			<li><a href="#sec_meanAge">Bajnok csapatok átlagos életkora</a></li>
