@@ -141,6 +141,9 @@
             return `<b>${params.data[2]}</b><br>
                     MIN/GP: ${(params.data[0]/params.data[1]).toFixed(1)}<br>
                     GP/#CHAMP: ${(params.data[1]/rings).toFixed(1)}`;
+          },
+          axisPointer: {
+            type: 'cross'
           }
         },
 
