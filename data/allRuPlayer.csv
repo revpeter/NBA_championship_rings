@@ -1,0 +1,845 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SEASON_ID
+1610612737,1960,00,Ernie Beck,Ernie,ernie-beck,12,G,6-4,190,"DEC 11, 1931",29.0,6,Pennsylvania,76136,,1960-61
+1610612737,1960,00,Al Ferrari,Al,al-ferrari,11,G,6-4,190,"JUL 06, 1933",27.0,3,Michigan State,76708,,1960-61
+1610612737,1960,00,Larry Foust,Larry,larry-foust,13,C,6-9,215,"JUN 24, 1928",33.0,10,La Salle,76744,,1960-61
+1610612737,1960,00,Si Green,Si,si-green,17,G,6-2,185,"AUG 20, 1933",27.0,3,Duquesne,76877,,1960-61
+1610612737,1960,00,Cliff Hagan,Cliff,cliff-hagan,16,F,6-4,210,"DEC 09, 1931",29.0,4,Kentucky,76912,,1960-61
+1610612737,1960,00,Fred LaCour,Fred,fred-lacour,19,G,6-5,210,"FEB 07, 1938",23.0,R,San Francisco,77327,,1960-61
+1610612737,1960,00,Clyde Lovellette,Clyde,clyde-lovellette,34,C,6-9,234,"SEP 07, 1929",31.0,7,Kansas,77414,,1960-61
+1610612737,1960,00,Johnny McCarthy,Johnny,johnny-mccarthy,15,G,6-1,185,"APR 25, 1934",27.0,3,Canisius,77506,,1960-61
+1610612737,1960,00,Bob Pettit,Bob,bob-pettit,9,F,6-9,205,"DEC 12, 1932",28.0,6,Louisiana State,77847,,1960-61
+1610612737,1960,00,Dave Piontek,Dave,dave-piontek,25,F,6-6,230,"AUG 27, 1934",26.0,4,Xavier,77862,,1960-61
+1610612737,1960,00,Woody Sauldsberry,Woody,woody-sauldsberry,21,F,6-7,220,"JUL 11, 1934",26.0,3,Texas Southern,78064,,1960-61
+1610612737,1960,00,Lenny Wilkens,Lenny,lenny-wilkens,32,G,6-1,180,"OCT 28, 1937",23.0,R,Providence,78530,,1960-61
+1610612747,1961,00,Elgin Baylor,Elgin,elgin-baylor,22,F,6-5,225,"SEP 16, 1934",27.0,3,Seattle,76127,,1961-62
+1610612747,1961,00,Ray Felix,Ray,ray-felix,14,C,6-11,220,"DEC 10, 1930",31.0,8,Long Island-Brooklyn,76704,,1961-62
+1610612747,1961,00,Tom Hawkins,Tom,tom-hawkins,20,F,6-5,210,"DEC 22, 1936",25.0,2,Notre Dame,76977,,1961-62
+1610612747,1961,00,Rod Hundley,Rod,rod-hundley,33,G,6-4,185,"OCT 26, 1934",27.0,4,West Virginia,77082,,1961-62
+1610612747,1961,00,Howie Jolliff,Howie,howie-jolliff,54,F,6-7,218,"JUL 20, 1938",23.0,1,Ohio,77172,,1961-62
+1610612747,1961,00,Jim Krebs,Jim,jim-krebs,32,C,6-8,230,"SEP 08, 1935",26.0,4,Southern Methodist,77311,,1961-62
+1610612747,1961,00,Rudy LaRusso,Rudy,rudy-larusso,35,F,6-8,220,"NOV 11, 1937",24.0,2,Dartmouth,77340,,1961-62
+1610612747,1961,00,Bob McNeill,Bob,bob-mcneill,52,G,6-1,170,"OCT 22, 1938",23.0,1,St. Joseph's (PA),77562,,1961-62
+1610612747,1961,00,Frank Selvy,Frank,frank-selvy,11,G,6-2,180,"NOV 09, 1932",29.0,6,Furman,78113,,1961-62
+1610612747,1961,00,Bobby Smith,Bobby,bobby-smith,21,G,6-4,190,"AUG 20, 1937",24.0,1,West Virginia,78203,,1961-62
+1610612747,1961,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",24.0,1,West Virginia,78497,,1961-62
+1610612747,1961,00,Wayne Yates,Wayne,wayne-yates,55,C,6-8,235,"NOV 07, 1937",24.0,R,Memphis,78630,,1961-62
+1610612747,1962,00,Dick Barnett,Dick,dick-barnett,5,G,6-4,190,"OCT 02, 1936",26.0,2,Tennessee State,76107,,1962-63
+1610612747,1962,00,Elgin Baylor,Elgin,elgin-baylor,22,F,6-5,225,"SEP 16, 1934",28.0,4,Seattle,76127,,1962-63
+1610612747,1962,00,Leroy Ellis,Leroy,leroy-ellis,25,F,6-11,210,"MAR 10, 1940",23.0,R,St. John's (NY),76663,,1962-63
+1610612747,1962,00,Ron Horn,Ron,ron-horn,24,F,6-7,220,"MAY 24, 1938",25.0,1,Indiana,77058,,1962-63
+1610612747,1962,00,Rod Hundley,Rod,rod-hundley,33,G,6-4,185,"OCT 26, 1934",28.0,5,West Virginia,77082,,1962-63
+1610612747,1962,00,Howie Jolliff,Howie,howie-jolliff,54,F,6-7,218,"JUL 20, 1938",24.0,2,Ohio,77172,,1962-63
+1610612747,1962,00,Jim Krebs,Jim,jim-krebs,32,C,6-8,230,"SEP 08, 1935",27.0,5,Southern Methodist,77311,,1962-63
+1610612747,1962,00,Rudy LaRusso,Rudy,rudy-larusso,35,F,6-8,220,"NOV 11, 1937",25.0,3,Dartmouth,77340,,1962-63
+1610612747,1962,00,Frank Selvy,Frank,frank-selvy,11,G,6-2,180,"NOV 09, 1932",30.0,7,Furman,78113,,1962-63
+1610612747,1962,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",25.0,2,West Virginia,78497,,1962-63
+1610612747,1962,00,Gene Wiley,Gene,gene-wiley,12,C,6-10,210,"NOV 12, 1937",25.0,R,Wichita State,78526,,1962-63
+1610612744,1963,00,Alvin Attles,Alvin,alvin-attles,16,G,6-1,175,"NOV 07, 1936",27.0,3,North Carolina A&T,76070,,1963-64
+1610612744,1963,00,Wilt Chamberlain,Wilt,wilt-chamberlain,13,C,7-1,250,"AUG 21, 1936",27.0,4,Kansas,76375,,1963-64
+1610612744,1963,00,Wayne Hightower,Wayne,wayne-hightower,55,F,6-8,192,"JAN 14, 1940",24.0,1,Kansas,77023,,1963-64
+1610612744,1963,00,Gary Hill,Gary,gary-hill,12,G,6-4,185,"OCT 07, 1941",22.0,R,Oklahoma City,77026,,1963-64
+1610612744,1963,00,George Lee,George,george-lee,9,F,6-4,200,"NOV 23, 1936",27.0,3,Michigan,77359,,1963-64
+1610612744,1963,00,Tom Meschery,Tom,tom-meschery,14,F,6-6,215,"OCT 26, 1938",25.0,2,St. Mary's (CA),77584,,1963-64
+1610612744,1963,00,Gary Phillips,Gary,gary-phillips,7,G,6-3,189,"DEC 07, 1939",24.0,2,Houston,77855,,1963-64
+1610612744,1963,00,Guy Rodgers,Guy,guy-rodgers,5,G,6-0,185,"SEP 01, 1935",28.0,5,Temple,78003,,1963-64
+1610612744,1963,00,Ken Sears,Ken,ken-sears,17,F,6-9,198,"AUG 17, 1933",30.0,7,Santa Clara,78106,,1963-64
+1610612744,1963,00,Nate Thurmond,Nate,nate-thurmond,42,C,6-11,225,"JUL 25, 1941",22.0,R,Bowling Green,600001,,1963-64
+1610612744,1963,00,John Windsor,John,john-windsor,15,F,6-8,215,"APR 03, 1940",24.0,R,Stanford,78591,,1963-64
+1610612747,1964,00,Dick Barnett,Dick,dick-barnett,5,G,6-4,190,"OCT 02, 1936",28.0,4,Tennessee State,76107,,1964-65
+1610612747,1964,00,Elgin Baylor,Elgin,elgin-baylor,22,F,6-5,225,"SEP 16, 1934",30.0,6,Seattle,76127,,1964-65
+1610612747,1964,00,Leroy Ellis,Leroy,leroy-ellis,25,F,6-11,210,"MAR 10, 1940",25.0,2,St. John's (NY),76663,,1964-65
+1610612747,1964,00,Jerry Grote,Jerry,jerry-grote,32,G,6-4,215,"DEC 28, 1940",24.0,R,Loyola-Marymount,76896,,1964-65
+1610612747,1964,00,Walt Hazzard,Walt,walt-hazzard,42,G,6-2,185,"APR 15, 1942",23.0,R,UCLA,76983,,1964-65
+1610612747,1964,00,Darrall Imhoff,Darrall,darrall-imhoff,14,C,6-10,220,"OCT 11, 1938",26.0,4,California,77093,,1964-65
+1610612747,1964,00,Jim King,Jim,jim-king,21,G,6-2,175,"FEB 07, 1941",24.0,1,Tulsa,77270,,1964-65
+1610612747,1964,00,Rudy LaRusso,Rudy,rudy-larusso,35,F,6-8,220,"NOV 11, 1937",27.0,5,Dartmouth,77340,,1964-65
+1610612747,1964,00,Don Nelson,Don,don-nelson,20,F,6-6,210,"MAY 15, 1940",25.0,2,Iowa,77700,,1964-65
+1610612747,1964,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",27.0,4,West Virginia,78497,,1964-65
+1610612747,1964,00,Gene Wiley,Gene,gene-wiley,12,C,6-10,210,"NOV 12, 1937",27.0,2,Wichita State,78526,,1964-65
+1610612747,1965,00,Elgin Baylor,Elgin,elgin-baylor,22,F,6-5,225,"SEP 16, 1934",31.0,7,Seattle,76127,,1965-66
+1610612747,1965,00,Bob Boozer,Bob,bob-boozer,15,F,6-8,215,"APR 26, 1937",29.0,5,Kansas State,76206,,1965-66
+1610612747,1965,00,Leroy Ellis,Leroy,leroy-ellis,25,F,6-11,210,"MAR 10, 1940",26.0,3,St. John's (NY),76663,,1965-66
+1610612747,1965,00,John Fairchild,John,john-fairchild,33,F,6-7,205,"APR 28, 1943",23.0,R,Brigham Young,76691,,1965-66
+1610612747,1965,00,Gail Goodrich,Gail,gail-goodrich,11,G,6-1,170,"APR 23, 1943",23.0,R,UCLA,76832,,1965-66
+1610612747,1965,00,Walt Hazzard,Walt,walt-hazzard,42,G,6-2,185,"APR 15, 1942",24.0,1,UCLA,76983,,1965-66
+1610612747,1965,00,Darrall Imhoff,Darrall,darrall-imhoff,14,C,6-10,220,"OCT 11, 1938",27.0,5,California,77093,,1965-66
+1610612747,1965,00,Jim King,Jim,jim-king,21,G,6-2,175,"FEB 07, 1941",25.0,2,Tulsa,77270,,1965-66
+1610612747,1965,00,Rudy LaRusso,Rudy,rudy-larusso,35,F,6-8,220,"NOV 11, 1937",28.0,6,Dartmouth,77340,,1965-66
+1610612747,1965,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",28.0,5,West Virginia,78497,,1965-66
+1610612747,1965,00,Gene Wiley,Gene,gene-wiley,12,C,6-10,210,"NOV 12, 1937",28.0,3,Wichita State,78526,,1965-66
+1610612744,1966,00,Alvin Attles,Alvin,alvin-attles,16,G,6-1,175,"NOV 07, 1936",30.0,6,North Carolina A&T,76070,,1966-67
+1610612744,1966,00,Rick Barry,Rick,rick-barry,24,F,6-7,205,"MAR 28, 1944",23.0,1,Miami,600013,,1966-67
+1610612744,1966,00,Joe Ellis,Joe,joe-ellis,31,F,6-6,175,"MAY 03, 1944",23.0,R,San Francisco,76661,,1966-67
+1610612744,1966,00,Fred Hetzel,Fred,fred-hetzel,44,F,6-8,220,"JUL 21, 1942",24.0,1,Davidson,77012,,1966-67
+1610612744,1966,00,Jim King,Jim,jim-king,21,G,6-2,175,"FEB 07, 1941",26.0,3,Tulsa,77270,,1966-67
+1610612744,1966,00,George Lee,George,george-lee,9,F,6-4,200,"NOV 23, 1936",30.0,5,Michigan,77359,,1966-67
+1610612744,1966,00,Clyde Lee,Clyde,clyde-lee,43,F,6-10,205,"MAR 14, 1944",23.0,R,Vanderbilt,77357,,1966-67
+1610612744,1966,00,Tom Meschery,Tom,tom-meschery,14,F,6-6,215,"OCT 26, 1938",28.0,5,St. Mary's (CA),77584,,1966-67
+1610612744,1966,00,Jeff Mullins,Jeff,jeff-mullins,23,G,6-4,190,"MAR 18, 1942",25.0,2,Duke,77662,,1966-67
+1610612744,1966,00,Paul Neumann,Paul,paul-neumann,15,G,6-1,175,"JAN 30, 1938",29.0,5,Stanford,77706,,1966-67
+1610612744,1966,00,Enoch Olsen,Enoch,enoch-olsen,13,F,6-8,220,"JUL 25, 1940",26.0,4,Louisville,77765,,1966-67
+1610612744,1966,00,Nate Thurmond,Nate,nate-thurmond,42,C,6-11,225,"JUL 25, 1941",25.0,3,Bowling Green,600001,,1966-67
+1610612744,1966,00,Bob Warlick,Bob,bob-warlick,11,G,6-5,200,"MAR 20, 1941",26.0,1,Pepperdine,78459,,1966-67
+1610612747,1967,00,Cliff Anderson,Cliff,cliff-anderson,30,G,6-2,200,"SEP 07, 1944",23.0,R,St. Joseph's (PA),76035,,1967-68
+1610612747,1967,00,Jim Barnes,Jim,jim-barnes,23,C,6-8,210,"APR 13, 1941",27.0,3,Texas-El Paso,76105,,1967-68
+1610612747,1967,00,Elgin Baylor,Elgin,elgin-baylor,22,F,6-5,225,"SEP 16, 1934",33.0,9,Seattle,76127,,1967-68
+1610612747,1967,00,Archie Clark,Archie,archie-clark,21,G,6-2,175,"JUL 15, 1941",26.0,1,Minnesota,76397,,1967-68
+1610612747,1967,00,Mel Counts,Mel,mel-counts,31,C,7-0,230,"OCT 16, 1941",26.0,3,Oregon State,76458,,1967-68
+1610612747,1967,00,Gail Goodrich,Gail,gail-goodrich,11,G,6-1,170,"APR 23, 1943",25.0,2,UCLA,76832,,1967-68
+1610612747,1967,00,Dennis Hamilton,Dennis,dennis-hamilton,52,F,6-8,210,"MAY 08, 1944",24.0,R,Arizona State,76926,,1967-68
+1610612747,1967,00,Tom Hawkins,Tom,tom-hawkins,33,F,6-5,210,"DEC 22, 1936",31.0,8,Notre Dame,76977,,1967-68
+1610612747,1967,00,Darrall Imhoff,Darrall,darrall-imhoff,14,C,6-10,220,"OCT 11, 1938",29.0,7,California,77093,,1967-68
+1610612747,1967,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",30.0,7,West Virginia,78497,,1967-68
+1610612747,1967,00,John Wetzel,John,john-wetzel,24,G,6-5,190,"OCT 22, 1944",23.0,R,Virginia Tech,78501,,1967-68
+1610612747,1968,00,Cliff Anderson,Cliff,cliff-anderson,40,G,6-2,200,"SEP 07, 1944",24.0,1,St. Joseph's (PA),76035,,1968-69
+1610612747,1968,00,Elgin Baylor,Elgin,elgin-baylor,22,F,6-5,225,"SEP 16, 1934",34.0,10,Seattle,76127,,1968-69
+1610612747,1968,00,Jay Carty,Jay,jay-carty,52,F,6-7,220,"JUL 04, 1941",27.0,R,Oregon State,76363,,1968-69
+1610612747,1968,00,Wilt Chamberlain,Wilt,wilt-chamberlain,13,C,7-1,250,"AUG 21, 1936",32.0,9,Kansas,76375,,1968-69
+1610612747,1968,00,Mel Counts,Mel,mel-counts,31,C,7-0,230,"OCT 16, 1941",27.0,4,Oregon State,76458,,1968-69
+1610612747,1968,00,Freddie Crawford,Freddie,freddie-crawford,12,G,6-4,189,"DEC 23, 1940",28.0,2,St. Bonaventure,76466,,1968-69
+1610612747,1968,00,Johnny Egan,Johnny,johnny-egan,21,G,6-0,180,"JAN 31, 1939",30.0,7,Providence,76647,,1968-69
+1610612747,1968,00,Keith Erickson,Keith,keith-erickson,24,F,6-5,195,"APR 19, 1944",25.0,3,UCLA,76680,,1968-69
+1610612747,1968,00,Tom Hawkins,Tom,tom-hawkins,33,F,6-5,210,"DEC 22, 1936",32.0,9,Notre Dame,76977,,1968-69
+1610612747,1968,00,Bill Hewitt,Bill,bill-hewitt,30,F,6-7,210,"AUG 08, 1944",24.0,R,Southern California,77013,,1968-69
+1610612747,1968,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",31.0,8,West Virginia,78497,,1968-69
+1610612747,1969,00,Elgin Baylor,Elgin,elgin-baylor,22,F,6-5,225,"SEP 16, 1934",35.0,11,Seattle,76127,,1969-70
+1610612747,1969,00,Wilt Chamberlain,Wilt,wilt-chamberlain,13,C,7-1,250,"AUG 21, 1936",33.0,10,Kansas,76375,,1969-70
+1610612747,1969,00,Mel Counts,Mel,mel-counts,31,C,7-0,230,"OCT 16, 1941",28.0,5,Oregon State,76458,,1969-70
+1610612747,1969,00,Johnny Egan,Johnny,johnny-egan,21,G,6-0,180,"JAN 31, 1939",31.0,8,Providence,76647,,1969-70
+1610612747,1969,00,Keith Erickson,Keith,keith-erickson,24,F,6-5,195,"APR 19, 1944",26.0,4,UCLA,76680,,1969-70
+1610612747,1969,00,Eldo Garrett,Eldo,eldo-garrett,20,G,6-3,185,"JAN 31, 1947",23.0,R,Southern Illinois,76788,,1969-70
+1610612747,1969,00,Mike Lynn,Mike,mike-lynn,33,F,6-7,215,"NOV 25, 1945",24.0,R,UCLA,77427,,1969-70
+1610612747,1969,00,Willie McCarter,Willie,willie-mccarter,15,G,6-3,175,"JUL 26, 1946",23.0,R,Drake,77505,,1969-70
+1610612747,1969,00,Rick Roberson,Rick,rick-roberson,35,C,6-9,231,"JUL 07, 1947",22.0,R,Cincinnati,77973,,1969-70
+1610612747,1969,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",32.0,9,West Virginia,78497,,1969-70
+1610612764,1970,00,Jim Barnes,Jim,jim-barnes,12,C,6-8,210,"APR 13, 1941",30.0,6,Texas-El Paso,76105,,1970-71
+1610612764,1970,00,Fred Carter,Fred,fred-carter,3,G,6-3,185,"FEB 14, 1945",26.0,1,Mount St. Mary's,76356,,1970-71
+1610612764,1970,00,George Johnson,George,george-johnson,31,C,6-11,245,"JUN 19, 1947",24.0,R,Stephen F. Austin,77147,,1970-71
+1610612764,1970,00,Gus Johnson,Gus,gus-johnson,25,F,6-6,230,"DEC 13, 1935",35.0,7,Idaho,77150,,1970-71
+1610612764,1970,00,Kevin Loughery,Kevin,kevin-loughery,22,G,6-3,190,"MAR 28, 1940",31.0,8,St. John's (NY),77411,,1970-71
+1610612764,1970,00,Jack Marin,Jack,jack-marin,24,F,6-6,200,"OCT 12, 1944",26.0,4,Duke,77463,,1970-71
+1610612764,1970,00,Eddie Miles,Eddie,eddie-miles,15,G,6-4,195,"JUL 05, 1940",30.0,7,Seattle,77596,,1970-71
+1610612764,1970,00,Earl Monroe,Earl,earl-monroe,10,G,6-3,185,"NOV 21, 1944",26.0,3,Winston-Salem State,600006,,1970-71
+1610612764,1970,00,Dennis Stewart,Dennis,dennis-stewart,40,F,6-6,220,"APR 11, 1947",24.0,R,Michigan,78253,,1970-71
+1610612764,1970,00,Al Tucker,Al,al-tucker,35,F,6-8,190,"FEB 24, 1943",28.0,3,Oklahoma Baptist,78372,,1970-71
+1610612764,1970,00,Wes Unseld,Wes,wes-unseld,41,C,6-7,245,"MAR 14, 1946",25.0,2,Louisville,78392,,1970-71
+1610612764,1970,00,Gary Zeller,Gary,gary-zeller,11,G,6-3,205,"NOV 20, 1947",23.0,R,Drake,78641,,1970-71
+1610612752,1971,00,Dick Barnett,Dick,dick-barnett,12,G,6-4,190,"OCT 02, 1936",35.0,11,Tennessee State,76107,,1971-72
+1610612752,1971,00,Bill Bradley,Bill,bill-bradley,24,F,6-5,205,"JUL 28, 1943",28.0,4,Princeton,76233,,1971-72
+1610612752,1971,00,Dave DeBusschere,Dave,dave-debusschere,22,F,6-6,220,"OCT 16, 1940",31.0,9,Detroit,76545,,1971-72
+1610612752,1971,00,Greg Fillmore,Greg,greg-fillmore,34,C,7-1,240,"MAR 07, 1947",25.0,1,Cheyney,76715,,1971-72
+1610612752,1971,00,Walt Frazier,Walt,walt-frazier,10,G,6-4,200,"MAR 29, 1945",27.0,4,Southern Illinois,76750,,1971-72
+1610612752,1971,00,Phil Jackson,Phil,phil-jackson,18,F,6-8,220,"SEP 17, 1945",26.0,3,North Dakota,77106,,1971-72
+1610612752,1971,00,Jerry Lucas,Jerry,jerry-lucas,32,F,6-8,230,"MAR 30, 1940",32.0,8,Ohio State,77418,,1971-72
+1610612752,1971,00,Eddie Mast,Eddie,eddie-mast,26,F,6-9,220,"OCT 03, 1948",23.0,1,Temple,77483,,1971-72
+1610612752,1971,00,Dean Meminger,Dean,dean-meminger,7,G,6-1,175,"MAY 13, 1948",24.0,R,Marquette,77578,,1971-72
+1610612752,1971,00,Eddie Miles,Eddie,eddie-miles,42,G,6-4,195,"JUL 05, 1940",31.0,8,Seattle,77596,,1971-72
+1610612752,1971,00,Mike Price,Mike,mike-price,5,G,6-3,200,"SEP 11, 1948",23.0,1,Illinois,77884,,1971-72
+1610612752,1971,00,Willis Reed,Willis,willis-reed,19,C,6-10,235,"JUN 25, 1942",30.0,7,Grambling,77929,,1971-72
+1610612752,1971,00,Mike Riordan,Mike,mike-riordan,6,F,6-4,200,"JUL 09, 1945",26.0,3,Providence,77966,,1971-72
+1610612752,1971,00,Dave Stallworth,Dave,dave-stallworth,9,F,6-7,200,"DEC 20, 1941",30.0,4,Wichita State,78238,,1971-72
+1610612747,1972,00,Roger Brown,Roger,roger-brown,30,C,6-11,225,"FEB 23, 1950",23.0,R,Kansas,76286,,1972-73
+1610612747,1972,00,Wilt Chamberlain,Wilt,wilt-chamberlain,13,C,7-1,250,"AUG 21, 1936",36.0,13,Kansas,76375,,1972-73
+1610612747,1972,00,Keith Erickson,Keith,keith-erickson,24,F,6-5,195,"APR 19, 1944",29.0,7,UCLA,76680,,1972-73
+1610612747,1972,00,Gail Goodrich,Gail,gail-goodrich,25,G,6-1,170,"APR 23, 1943",30.0,7,UCLA,76832,,1972-73
+1610612747,1972,00,Travis Grant,Travis,travis-grant,33,F,6-7,215,"JAN 01, 1950",23.0,R,Kentucky State,76853,,1972-73
+1610612747,1972,00,Happy Hairston,Happy,happy-hairston,52,F,6-7,225,"MAY 31, 1942",31.0,8,New York University,76916,,1972-73
+1610612747,1972,00,Jim McMillian,Jim,jim-mcmillian,5,F,6-5,215,"MAR 11, 1948",25.0,2,Columbia,77554,,1972-73
+1610612747,1972,00,Jim Price,Jim,jim-price,15,G,6-3,195,"NOV 27, 1949",23.0,R,Louisville,77883,,1972-73
+1610612747,1972,00,Pat Riley,Pat,pat-riley,12,G,6-4,205,"MAR 20, 1945",28.0,5,Kentucky,77962,,1972-73
+1610612747,1972,00,Flynn Robinson,Flynn,flynn-robinson,21,G,6-1,185,"APR 28, 1941",32.0,6,Wyoming,77988,,1972-73
+1610612747,1972,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",35.0,12,West Virginia,78497,,1972-73
+1610612749,1973,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",27.0,4,UCLA,76003,,1973-74
+1610612749,1973,00,Lucius Allen,Lucius,lucius-allen,42,G,6-2,175,"SEP 26, 1947",26.0,4,UCLA,76027,,1973-74
+1610612749,1973,00,Dick Cunningham,Dick,dick-cunningham,19,C,6-10,245,"JUL 11, 1946",27.0,5,Murray State,76485,,1973-74
+1610612749,1973,00,Bob Dandridge,Bob,bob-dandridge,10,F,6-6,195,"NOV 15, 1947",26.0,4,Norfolk State,76500,,1973-74
+1610612749,1973,00,Edward Davis,Edward,edward-davis,20,F,6-7,195,"JUN 16, 1950",24.0,1,Duquesne,76522,,1973-74
+1610612749,1973,00,Terry Driscoll,Terry,terry-driscoll,7,F,6-7,215,"AUG 28, 1947",26.0,3,Boston College,76603,,1973-74
+1610612749,1973,00,Russell Lee,Russell,russell-lee,21,F,6-5,185,"JAN 27, 1950",24.0,1,Marshall,77365,,1973-74
+1610612749,1973,00,Jon McGlocklin,Jon,jon-mcglocklin,14,G,6-5,205,"JUN 10, 1943",31.0,8,Indiana,77533,,1973-74
+1610612749,1973,00,Curtis Perry,Curtis,curtis-perry,18,F,6-7,220,"SEP 13, 1948",25.0,3,Missouri State,77835,,1973-74
+1610612749,1973,00,Oscar Robertson,Oscar,oscar-robertson,1,G,6-5,205,"NOV 24, 1938",35.0,13,Cincinnati,600015,,1973-74
+1610612749,1973,00,Chuck Terry,Chuck,chuck-terry,31,G,6-6,215,"SEP 27, 1950",23.0,1,Long Beach State,78306,,1973-74
+1610612749,1973,00,Ron Williams,Ron,ron-williams,12,G,6-3,188,"SEP 24, 1944",29.0,5,West Virginia,78567,,1973-74
+1610612764,1974,00,Phil Chenier,Phil,phil-chenier,45,G,6-3,180,"OCT 30, 1950",24.0,3,California,76386,,1974-75
+1610612764,1974,00,Dennis DuVal,Dennis,dennis-duval,23,G,6-3,175,"MAR 31, 1952",23.0,R,Syracuse,76623,,1974-75
+1610612764,1974,00,Dick Gibbs,Dick,dick-gibbs,21,F,6-5,210,"DEC 20, 1948",26.0,3,Texas-El Paso,76807,,1974-75
+1610612764,1974,00,Clem Haskins,Clem,clem-haskins,14,G,6-3,195,"JUL 11, 1943",31.0,7,Western Kentucky,76965,,1974-75
+1610612764,1974,00,Elvin Hayes,Elvin,elvin-hayes,11,F,6-9,235,"NOV 17, 1945",29.0,6,Houston,76979,,1974-75
+1610612764,1974,00,Jimmy Jones,Jimmy,jimmy-jones,15,G,6-4,188,"JAN 01, 1945",30.0,R,Grambling,77186,,1974-75
+1610612764,1974,00,Tom Kozelko,Tom,tom-kozelko,22,F,6-8,220,"JUL 01, 1951",23.0,1,Toledo,77305,,1974-75
+1610612764,1974,00,Kevin Porter,Kevin,kevin-porter,10,G,6-0,170,"APR 17, 1950",25.0,2,St. Francis (PA),77876,,1974-75
+1610612764,1974,00,Mike Riordan,Mike,mike-riordan,6,F,6-4,200,"JUL 09, 1945",29.0,6,Providence,77966,,1974-75
+1610612764,1974,00,Truck Robinson,Truck,truck-robinson,33,F,6-7,225,"OCT 04, 1951",23.0,R,Tennessee State,77993,,1974-75
+1610612764,1974,00,Wes Unseld,Wes,wes-unseld,41,C,6-7,245,"MAR 14, 1946",29.0,6,Louisville,78392,,1974-75
+1610612764,1974,00,Stan Washington,Stan,stan-washington,20,G,6-4,190,"JAN 23, 1952",23.0,R,San Diego,78470,,1974-75
+1610612764,1974,00,Nick Weatherspoon,Nick,nick-weatherspoon,12,F,6-7,195,"JUL 20, 1950",24.0,1,Illinois,78475,,1974-75
+1610612756,1975,00,Alvan Adams,Alvan,alvan-adams,33,C,6-9,210,"JUL 19, 1954",21.0,R,Oklahoma,76011,,1975-76
+1610612756,1975,00,Dennis Awtrey,Dennis,dennis-awtrey,21,C,6-10,235,"FEB 22, 1948",28.0,5,Santa Clara,76078,,1975-76
+1610612756,1975,00,Keith Erickson,Keith,keith-erickson,14,F,6-5,195,"APR 19, 1944",32.0,10,UCLA,76680,,1975-76
+1610612756,1975,00,Nate Hawthorne,Nate,nate-hawthorne,32,G,6-4,190,"JAN 19, 1951",25.0,2,Southern Illinois,76978,,1975-76
+1610612756,1975,00,Phil Lumpkin,Phil,phil-lumpkin,10,G,6-0,165,"DEC 20, 1951",24.0,1,Miami (Ohio),77424,,1975-76
+1610612756,1975,00,Curtis Perry,Curtis,curtis-perry,18,F,6-7,220,"SEP 13, 1948",27.0,5,Missouri State,77835,,1975-76
+1610612756,1975,00,Fred Saunders,Fred,fred-saunders,30,F,6-7,210,"JUN 13, 1951",25.0,1,Syracuse,78065,,1975-76
+1610612756,1975,00,John Shumate,John,john-shumate,34,F,6-9,235,"APR 06, 1952",24.0,R,Notre Dame,78143,,1975-76
+1610612756,1975,00,Ricky Sobers,Ricky,ricky-sobers,4-40,G,6-3,198,"JAN 15, 1953",23.0,R,UNLV,78215,,1975-76
+1610612756,1975,00,Dick Van Arsdale,Dick,dick-van-arsdale,5,G,6-5,210,"FEB 22, 1943",33.0,10,Indiana,78398,,1975-76
+1610612756,1975,00,Paul Westphal,Paul,paul-westphal,44,G,6-4,195,"NOV 30, 1950",25.0,3,Southern California,78500,,1975-76
+1610612756,1975,00,John Wetzel,John,john-wetzel,25,G,6-5,190,"OCT 22, 1944",31.0,6,Virginia Tech,78501,,1975-76
+1610612755,1976,00,Jim Barnett,Jim,jim-barnett,33,G,6-4,170,"JUL 07, 1944",32.0,10,Oregon,76106,,1976-77
+1610612755,1976,00,Henry Bibby,Henry,henry-bibby,14,G,6-1,185,"NOV 24, 1949",27.0,4,UCLA,76162,,1976-77
+1610612755,1976,00,Joe Bryant,Joe,joe-bryant,23,F,6-10,185,"OCT 19, 1954",22.0,1,La Salle,76290,,1976-77
+1610612755,1976,00,Harvey Catchings,Harvey,harvey-catchings,42,C,6-9,218,"SEP 02, 1951",25.0,2,Hardin-Simmons,76365,,1976-77
+1610612755,1976,00,Doug Collins,Doug,doug-collins,20,G,6-6,180,"JUL 28, 1951",25.0,3,Illinois State,76421,,1976-77
+1610612755,1976,00,Darryl Dawkins,Darryl,darryl-dawkins,53,C,6-11,251,"JAN 11, 1957",20.0,1,Maynard Evans HS (FL),76539,,1976-77
+1610612755,1976,00,Mike Dunleavy,Mike,mike-dunleavy,,G,6-3,180,"MAR 21, 1954",23.0,R,South Carolina,76616,,1976-77
+1610612755,1976,00,Julius Erving,Julius,julius-erving,6,F,6-7,200,"FEB 22, 1950",27.0,R,Massachusetts,76681,,1976-77
+1610612755,1976,00,World Free,World,world-free,21,G,6-3,185,"DEC 09, 1953",23.0,1,Guilford,76753,,1976-77
+1610612755,1976,00,Terry Furlow,Terry,terry-furlow,25,G,6-5,190,"OCT 18, 1954",22.0,R,Michigan State,76767,,1976-77
+1610612755,1976,00,Caldwell Jones,Caldwell,caldwell-jones,11,C,6-11,217,"AUG 04, 1950",26.0,R,Albany State (GA),77175,,1976-77
+1610612755,1976,00,George McGinnis,George,george-mcginnis,30,F,6-8,235,"AUG 12, 1950",26.0,1,Indiana,77532,,1976-77
+1610612755,1976,00,Steve Mix,Steve,steve-mix,50,F,6-7,215,"DEC 30, 1947",29.0,6,Toledo,77618,,1976-77
+1610612760,1977,00,Fred Brown,Fred,fred-brown,32,G,6-3,182,"AUG 07, 1948",29.0,6,Iowa,76272,,1977-78
+1610612760,1977,00,Al Fleming,Al,al-fleming,30,F,6-7,215,"APR 05, 1954",24.0,R,Arizona,76722,,1977-78
+1610612760,1977,00,Mike Green,Mike,mike-green,23,C,6-10,200,"AUG 06, 1951",26.0,1,Louisiana Tech,76873,,1977-78
+1610612760,1977,00,Joey Hassett,Joey,joey-hassett,10,G,6-5,180,"SEP 11, 1955",22.0,R,Providence,76966,,1977-78
+1610612760,1977,00,Dennis Johnson,Dennis,dennis-johnson,24,G,6-4,185,"SEP 18, 1954",23.0,1,Pepperdine,77141,,1977-78
+1610612760,1977,00,Bruce Seals,Bruce,bruce-seals,45,F,6-8,210,"JUN 18, 1953",25.0,2,Xavier of Louisiana,78103,,1977-78
+1610612760,1977,00,Jack Sikma,Jack,jack-sikma,43,C,6-11,230,"NOV 14, 1955",22.0,R,Illinois Wesleyan,78149,,1977-78
+1610612760,1977,00,Paul Silas,Paul,paul-silas,35,F,6-7,220,"JUL 12, 1943",34.0,13,Creighton,78151,,1977-78
+1610612760,1977,00,Dean Tolson,Dean,dean-tolson,20,F,6-8,190,"NOV 25, 1951",26.0,2,Arkansas,78349,,1977-78
+1610612760,1977,00,Marvin Webster,Marvin,marvin-webster,40,C,7-1,225,"APR 13, 1952",26.0,1,Morgan State,78481,,1977-78
+1610612760,1977,00,Gus Williams,Gus,gus-williams,1,G,6-2,175,"OCT 10, 1953",24.0,2,Southern California,78549,,1977-78
+1610612760,1977,00,Willie Wise,Willie,willie-wise,42,F,6-6,210,"MAR 03, 1947",31.0,1,Drake,78602,,1977-78
+1610612764,1978,00,Greg Ballard,Greg,greg-ballard,42,F,6-7,215,"JAN 29, 1955",24.0,1,Oregon,76091,,1978-79
+1610612764,1978,00,Phil Chenier,Phil,phil-chenier,45,G,6-3,180,"OCT 30, 1950",28.0,7,California,76386,,1978-79
+1610612764,1978,00,Dave Corzine,Dave,dave-corzine,40,C,6-11,250,"APR 25, 1956",23.0,R,DePaul,76453,,1978-79
+1610612764,1978,00,Bob Dandridge,Bob,bob-dandridge,10,F,6-6,195,"NOV 15, 1947",31.0,9,Norfolk State,76500,,1978-79
+1610612764,1978,00,Kevin Grevey,Kevin,kevin-grevey,35,G,6-5,210,"MAY 12, 1953",26.0,3,Kentucky,76887,,1978-79
+1610612764,1978,00,Elvin Hayes,Elvin,elvin-hayes,11,F,6-9,235,"NOV 17, 1945",33.0,10,Houston,76979,,1978-79
+1610612764,1978,00,Tom Henderson,Tom,tom-henderson,14,G,6-3,190,"JAN 26, 1952",27.0,4,Hawaii,76996,,1978-79
+1610612764,1978,00,Charlie Johnson,Charlie,charlie-johnson,15,G,6-0,170,"MAR 31, 1949",30.0,6,California,77133,,1978-79
+1610612764,1978,00,Mitch Kupchak,Mitch,mitch-kupchak,25,F,6-9,230,"MAY 24, 1954",25.0,2,North Carolina,77324,,1978-79
+1610612764,1978,00,Roger Phegley,Roger,roger-phegley,22,G,6-6,205,"OCT 16, 1956",22.0,R,Bradley,77848,,1978-79
+1610612764,1978,00,Wes Unseld,Wes,wes-unseld,41,C,6-7,245,"MAR 14, 1946",33.0,10,Louisville,78392,,1978-79
+1610612764,1978,00,Larry Wright,Larry,larry-wright,32,G,6-1,160,"NOV 23, 1954",24.0,2,Grambling,78623,,1978-79
+1610612755,1979,00,Henry Bibby,Henry,henry-bibby,14,G,6-1,185,"NOV 24, 1949",30.0,7,UCLA,76162,,1979-80
+1610612755,1979,00,Maurice Cheeks,Maurice,maurice-cheeks,10,G,6-1,180,"SEP 08, 1956",23.0,1,West Texas A&M,76385,,1979-80
+1610612755,1979,00,Doug Collins,Doug,doug-collins,20,G,6-6,180,"JUL 28, 1951",28.0,6,Illinois State,76421,,1979-80
+1610612755,1979,00,Darryl Dawkins,Darryl,darryl-dawkins,53,C,6-11,251,"JAN 11, 1957",23.0,4,Maynard Evans HS (FL),76539,,1979-80
+1610612755,1979,00,Julius Erving,Julius,julius-erving,6,F,6-7,200,"FEB 22, 1950",30.0,3,Massachusetts,76681,,1979-80
+1610612755,1979,00,Caldwell Jones,Caldwell,caldwell-jones,11,C,6-11,217,"AUG 04, 1950",29.0,3,Albany State (GA),77175,,1979-80
+1610612755,1979,00,Bobby Jones,Bobby,bobby-jones,,F,6-9,210,"DEC 18, 1951",28.0,3,North Carolina,77193,,1979-80
+1610612755,1979,00,Steve Mix,Steve,steve-mix,50,F,6-7,215,"DEC 30, 1947",32.0,9,Toledo,77618,,1979-80
+1610612755,1979,00,Clint Richardson,Clint,clint-richardson,4,G,6-3,195,"AUG 07, 1956",23.0,R,Seattle,77950,,1979-80
+1610612755,1979,00,Al Skinner,Al,al-skinner,30,G,6-3,190,"JUN 16, 1952",28.0,3,Massachusetts,78167,,1979-80
+1610612755,1979,00,Jim Spanarkel,Jim,jim-spanarkel,34,G,6-5,190,"JUN 28, 1957",23.0,R,Duke,78222,,1979-80
+1610612755,1979,00,Bernard Toone,Bernard,bernard-toone,3,F,6-9,210,"JUL 14, 1956",23.0,R,Marquette,78356,,1979-80
+1610612745,1980,00,Mike Dunleavy,Mike,mike-dunleavy,,G,6-3,180,"MAR 21, 1954",27.0,4,South Carolina,76616,,1980-81
+1610612745,1980,00,Calvin Garrett,Calvin,calvin-garrett,00,F,6-7,190,"JUL 11, 1956",24.0,R,Oral Roberts,76786,,1980-81
+1610612745,1980,00,Tom Henderson,Tom,tom-henderson,6,G,6-3,190,"JAN 26, 1952",29.0,6,Hawaii,76996,,1980-81
+1610612745,1980,00,Major Jones,Major,major-jones,11,F,6-9,225,"JUL 09, 1953",27.0,1,Albany State (GA),77189,,1980-81
+1610612745,1980,00,Allen Leavell,Allen,allen-leavell,30,G,6-1,170,"MAY 27, 1957",24.0,1,Oklahoma City,77353,,1980-81
+1610612745,1980,00,Moses Malone,Moses,moses-malone,24,C,6-10,215,"MAR 23, 1955",26.0,4,Petersburg HS (VA),77449,,1980-81
+1610612745,1980,00,Calvin Murphy,Calvin,calvin-murphy,23,G,5-9,165,"MAY 09, 1948",33.0,10,Niagara,77669,,1980-81
+1610612745,1980,00,Billy Paultz,Billy,billy-paultz,5,C,6-11,235,"JUL 30, 1948",32.0,4,St. John's (NY),77817,,1980-81
+1610612745,1980,00,Robert Reid,Robert,robert-reid,50,F,6-8,205,"AUG 30, 1955",25.0,3,St. Mary's (TX),77936,,1980-81
+1610612745,1980,00,John Stroud,John,john-stroud,42,F,6-7,215,"OCT 29, 1957",23.0,R,Mississippi,78274,,1980-81
+1610612745,1980,00,Rudy Tomjanovich,Rudy,rudy-tomjanovich,45,F,6-8,218,"NOV 24, 1948",32.0,10,Michigan,78350,,1980-81
+1610612745,1980,00,Bill Willoughby,Bill,bill-willoughby,32,F,6-8,205,"MAY 20, 1957",24.0,4,Dwight Morrow HS (NJ),78577,,1980-81
+1610612755,1981,00,Mike Bantom,Mike,mike-bantom,42,F,6-9,200,"DEC 03, 1951",30.0,8,St. Joseph's (PA),76095,,1981-82
+1610612755,1981,00,Maurice Cheeks,Maurice,maurice-cheeks,10,G,6-1,180,"SEP 08, 1956",25.0,3,West Texas A&M,76385,,1981-82
+1610612755,1981,00,Earl Cureton,Earl,earl-cureton,25,F,6-9,210,"SEP 03, 1957",24.0,1,Detroit,940,,1981-82
+1610612755,1981,00,Darryl Dawkins,Darryl,darryl-dawkins,53,C,6-11,251,"JAN 11, 1957",25.0,6,Maynard Evans HS (FL),76539,,1981-82
+1610612755,1981,00,Franklin Edwards,Franklin,franklin-edwards,14,G,6-1,170,"FEB 02, 1959",23.0,R,Cleveland State,76641,,1981-82
+1610612755,1981,00,Julius Erving,Julius,julius-erving,6,F,6-7,200,"FEB 22, 1950",32.0,5,Massachusetts,76681,,1981-82
+1610612755,1981,00,Lionel Hollins,Lionel,lionel-hollins,9,G,6-3,185,"OCT 19, 1953",28.0,6,Arizona State,77043,,1981-82
+1610612755,1981,00,Ollie Johnson,Ollie,ollie-johnson,18,F,6-6,200,"MAY 11, 1949",33.0,9,Temple,77162,,1981-82
+1610612755,1981,00,Bobby Jones,Bobby,bobby-jones,,F,6-9,210,"DEC 18, 1951",30.0,5,North Carolina,77193,,1981-82
+1610612755,1981,00,Caldwell Jones,Caldwell,caldwell-jones,11,C,6-11,217,"AUG 04, 1950",31.0,5,Albany State (GA),77175,,1981-82
+1610612755,1981,00,Steve Mix,Steve,steve-mix,23,F,6-7,215,"DEC 30, 1947",34.0,11,Toledo,77618,,1981-82
+1610612755,1981,00,Clint Richardson,Clint,clint-richardson,4,G,6-3,195,"AUG 07, 1956",25.0,2,Seattle,77950,,1981-82
+1610612755,1981,00,Andrew Toney,Andrew,andrew-toney,22,G,6-3,178,"NOV 23, 1957",24.0,1,Louisiana-Lafayette,78351,,1981-82
+1610612747,1982,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",36.0,13,UCLA,76003,,1982-83
+1610612747,1982,00,Billyray Bates,Billyray,billyray-bates,35,G,6-4,210,"MAY 31, 1956",27.0,3,Kentucky State,76121,,1982-83
+1610612747,1982,00,Michael Cooper,Michael,michael-cooper,21,G,6-7,170,"APR 15, 1956",27.0,4,New Mexico,76444,,1982-83
+1610612747,1982,00,Magic Johnson,Magic,magic-johnson,32,G,6-9,215,"AUG 14, 1959",23.0,3,Michigan State,77142,,1982-83
+1610612747,1982,00,Clay Johnson,Clay,clay-johnson,34,G,6-4,175,"JUL 18, 1956",26.0,1,Missouri,77135,,1982-83
+1610612747,1982,00,Dwight Jones,Dwight,dwight-jones,13,F,6-10,210,"FEB 27, 1952",31.0,9,Houston,77182,,1982-83
+1610612747,1982,00,Eddie Jordan,Eddie,eddie-jordan,15,G,6-1,170,"JAN 29, 1955",28.0,5,Rutgers,77205,,1982-83
+1610612747,1982,00,Mark Landsberger,Mark,mark-landsberger,54,F,6-8,215,"MAY 21, 1955",28.0,5,Arizona State,77334,,1982-83
+1610612747,1982,00,Bob McAdoo,Bob,bob-mcadoo,11,C,6-9,210,"SEP 25, 1951",31.0,10,North Carolina,77498,,1982-83
+1610612747,1982,00,Mike McGee,Mike,mike-mcgee,40,F,6-5,190,"JUL 29, 1959",23.0,1,Michigan,77530,,1982-83
+1610612747,1982,00,Steve Mix,Steve,steve-mix,50,F,6-7,215,"DEC 30, 1947",35.0,12,Toledo,77618,,1982-83
+1610612747,1982,00,Norm Nixon,Norm,norm-nixon,10,G,6-2,170,"OCT 11, 1955",27.0,5,Duquesne,77721,,1982-83
+1610612747,1982,00,Kurt Rambis,Kurt,kurt-rambis,31,F,6-8,213,"FEB 25, 1958",25.0,1,Santa Clara,77905,,1982-83
+1610612747,1982,00,Jamaal Wilkes,Jamaal,jamaal-wilkes,52,F,6-6,190,"MAY 02, 1953",30.0,8,UCLA,78532,,1982-83
+1610612747,1982,00,James Worthy,James,james-worthy,42,F,6-9,225,"FEB 27, 1961",22.0,R,North Carolina,1460,,1982-83
+1610612747,1983,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",37.0,14,UCLA,76003,,1983-84
+1610612747,1983,00,Michael Cooper,Michael,michael-cooper,21,G,6-7,170,"APR 15, 1956",28.0,5,New Mexico,76444,,1983-84
+1610612747,1983,00,Calvin Garrett,Calvin,calvin-garrett,0,F,6-7,190,"JUL 11, 1956",27.0,3,Oral Roberts,76786,,1983-84
+1610612747,1983,00,Magic Johnson,Magic,magic-johnson,32,G,6-9,215,"AUG 14, 1959",24.0,4,Michigan State,77142,,1983-84
+1610612747,1983,00,Eddie Jordan,Eddie,eddie-jordan,15,G,6-1,170,"JAN 29, 1955",29.0,6,Rutgers,77205,,1983-84
+1610612747,1983,00,Mitch Kupchak,Mitch,mitch-kupchak,25,F,6-9,230,"MAY 24, 1954",30.0,6,North Carolina,77324,,1983-84
+1610612747,1983,00,Bob McAdoo,Bob,bob-mcadoo,11,C,6-9,210,"SEP 25, 1951",32.0,11,North Carolina,77498,,1983-84
+1610612747,1983,00,Mike McGee,Mike,mike-mcgee,40,F,6-5,190,"JUL 29, 1959",24.0,2,Michigan,77530,,1983-84
+1610612747,1983,00,Swen Nater,Swen,swen-nater,41,C,6-11,240,"JAN 14, 1950",34.0,7,UCLA,77689,,1983-84
+1610612747,1983,00,Kurt Rambis,Kurt,kurt-rambis,31,F,6-8,213,"FEB 25, 1958",26.0,2,Santa Clara,77905,,1983-84
+1610612747,1983,00,Byron Scott,Byron,byron-scott,4,G,6-3,195,"MAR 28, 1961",23.0,R,Arizona State,2,,1983-84
+1610612747,1983,00,Larry Spriggs,Larry,larry-spriggs,35,F,6-7,230,"SEP 08, 1959",24.0,2,Howard,78233,,1983-84
+1610612747,1983,00,Jamaal Wilkes,Jamaal,jamaal-wilkes,52,F,6-6,190,"MAY 02, 1953",31.0,9,UCLA,78532,,1983-84
+1610612747,1983,00,James Worthy,James,james-worthy,42,F,6-9,225,"FEB 27, 1961",23.0,1,North Carolina,1460,,1983-84
+1610612738,1984,00,Danny Ainge,Danny,danny-ainge,44,G,6-5,175,"MAR 17, 1959",26.0,3,Brigham Young,76017,,1984-85
+1610612738,1984,00,Larry Bird,Larry,larry-bird,33,F,6-9,220,"DEC 07, 1956",28.0,5,Indiana State,1449,,1984-85
+1610612738,1984,00,Quinn Buckner,Quinn,quinn-buckner,28,G,6-3,190,"AUG 20, 1954",30.0,8,Indiana,76296,,1984-85
+1610612738,1984,00,Rick Carlisle,Rick,rick-carlisle,34,G,6-5,210,"OCT 27, 1959",25.0,R,Virginia,76342,,1984-85
+1610612738,1984,00,M.L. Carr,M.L.,ml-carr,30,F,6-6,205,"JAN 09, 1951",34.0,8,Guilford,76351,,1984-85
+1610612738,1984,00,Carlos Clark,Carlos,carlos-clark,40,G,6-4,210,"AUG 10, 1960",24.0,1,Mississippi,76398,,1984-85
+1610612738,1984,00,Dennis Johnson,Dennis,dennis-johnson,3,G,6-4,185,"SEP 18, 1954",30.0,8,Pepperdine,77141,,1984-85
+1610612738,1984,00,Greg Kite,Greg,greg-kite,50,C,6-11,250,"AUG 05, 1961",23.0,1,Brigham Young,1123,,1984-85
+1610612738,1984,00,Cedric Maxwell,Cedric,cedric-maxwell,31,F,6-8,205,"NOV 21, 1955",29.0,7,North Carolina-Charlotte,77487,,1984-85
+1610612738,1984,00,Kevin McHale,Kevin,kevin-mchale,32,F,6-10,210,"DEC 19, 1957",27.0,4,Minnesota,1450,,1984-85
+1610612738,1984,00,Robert Parish,Robert,robert-parish,0,C,7-1,230,"AUG 30, 1953",31.0,8,Centenary-Louisiana,305,,1984-85
+1610612738,1984,00,Scott Wedman,Scott,scott-wedman,8,F,6-7,215,"JUL 29, 1952",32.0,10,Colorado,78482,,1984-85
+1610612738,1984,00,Ray Williams,Ray,ray-williams,20,G,6-3,188,"OCT 14, 1954",30.0,7,Minnesota,78571,,1984-85
+1610612745,1985,00,Craig Ehlo,Craig,craig-ehlo,3,G,6-6,180,"AUG 11, 1961",24.0,2,Washington State,378,,1985-86
+1610612745,1985,00,Steve Harris,Steve,steve-harris,20,G,6-5,195,"OCT 15, 1963",22.0,R,Tulsa,76960,,1985-86
+1610612745,1985,00,Allen Leavell,Allen,allen-leavell,30,G,6-1,170,"MAY 27, 1957",29.0,6,Oklahoma City,77353,,1985-86
+1610612745,1985,00,Lewis Lloyd,Lewis,lewis-lloyd,32,G,6-6,205,"FEB 22, 1959",27.0,4,Drake,77395,,1985-86
+1610612745,1985,00,John Lucas,John,john-lucas,5,G,6-3,175,"OCT 31, 1953",32.0,9,Maryland,77419,,1985-86
+1610612745,1985,00,Rodney McCray,Rodney,rodney-mccray,22,F,6-8,220,"AUG 29, 1961",24.0,2,Louisville,1622,,1985-86
+1610612745,1985,00,Hank McDowell,Hank,hank-mcdowell,8,F,6-9,215,"NOV 13, 1959",26.0,4,Memphis,77527,,1985-86
+1610612745,1985,00,Hakeem Olajuwon,Hakeem,hakeem-olajuwon,34,C,7-0,255,"JAN 21, 1963",23.0,1,Houston,165,,1985-86
+1610612745,1985,00,Jim Petersen,Jim,jim-petersen,43,F,6-10,235,"FEB 22, 1962",24.0,1,Minnesota,77839,,1985-86
+1610612745,1985,00,Robert Reid,Robert,robert-reid,33,F,6-8,205,"AUG 30, 1955",30.0,7,St. Mary's (TX),77936,,1985-86
+1610612745,1985,00,Ralph Sampson,Ralph,ralph-sampson,50,C,7-4,228,"JUL 07, 1960",25.0,2,Virginia,78055,,1985-86
+1610612745,1985,00,Granville Waiters,Granville,granville-waiters,31,C,6-11,225,"JAN 08, 1961",25.0,2,Ohio State,78430,,1985-86
+1610612745,1985,00,Mitchell Wiggins,Mitchell,mitchell-wiggins,15,G,6-4,185,"SEP 28, 1959",26.0,2,Florida State,78523,,1985-86
+1610612738,1986,00,Danny Ainge,Danny,danny-ainge,44,G,6-5,175,"MAR 17, 1959",28.0,5,Brigham Young,76017,,1986-87
+1610612738,1986,00,Larry Bird,Larry,larry-bird,33,F,6-9,220,"DEC 07, 1956",30.0,7,Indiana State,1449,,1986-87
+1610612738,1986,00,Rick Carlisle,Rick,rick-carlisle,34,G,6-5,210,"OCT 27, 1959",27.0,2,Virginia,76342,,1986-87
+1610612738,1986,00,Darren Daye,Darren,darren-daye,20,F,6-8,220,"NOV 30, 1960",26.0,3,UCLA,76543,,1986-87
+1610612738,1986,00,Conner Henry,Conner,conner-henry,43,G,6-7,195,"JUL 21, 1963",23.0,R,California-Santa Barbara,77002,,1986-87
+1610612738,1986,00,Dennis Johnson,Dennis,dennis-johnson,3,G,6-4,185,"SEP 18, 1954",32.0,10,Pepperdine,77141,,1986-87
+1610612738,1986,00,Greg Kite,Greg,greg-kite,50,C,6-11,250,"AUG 05, 1961",25.0,3,Brigham Young,1123,,1986-87
+1610612738,1986,00,Kevin McHale,Kevin,kevin-mchale,32,F,6-10,210,"DEC 19, 1957",29.0,6,Minnesota,1450,,1986-87
+1610612738,1986,00,Robert Parish,Robert,robert-parish,0,C,7-1,230,"AUG 30, 1953",33.0,10,Centenary-Louisiana,305,,1986-87
+1610612738,1986,00,Fred Roberts,Fred,fred-roberts,31,F,6-10,218,"AUG 14, 1960",26.0,3,Brigham Young,122,,1986-87
+1610612738,1986,00,Jerry Sichting,Jerry,jerry-sichting,12,G,6-1,168,"NOV 29, 1956",30.0,6,Purdue,78146,,1986-87
+1610612738,1986,00,David Thirdkill,David,david-thirdkill,45,F,6-7,195,"APR 12, 1960",27.0,4,Bradley,78314,,1986-87
+1610612738,1986,00,Andre Turner,Andre,andre-turner,7,G,5-11,160,"DEC 13, 1964",22.0,R,Memphis,78377,,1986-87
+1610612738,1986,00,Sam Vincent,Sam,sam-vincent,11,G,6-2,185,"MAY 18, 1963",24.0,1,Michigan State,78417,,1986-87
+1610612738,1986,00,Bill Walton,Bill,bill-walton,5,C,6-11,210,"NOV 05, 1952",34.0,9,UCLA,78450,,1986-87
+1610612738,1986,00,Scott Wedman,Scott,scott-wedman,8,F,6-7,215,"JUL 29, 1952",34.0,12,Colorado,78482,,1986-87
+1610612765,1987,00,William Bedford,William,william-bedford,25,C,7-0,225,"DEC 14, 1963",24.0,1,Memphis,76138,,1987-88
+1610612765,1987,00,Adrian Dantley,Adrian,adrian-dantley,45,F,6-5,208,"FEB 26, 1955",33.0,11,Notre Dame,76504,,1987-88
+1610612765,1987,00,Darryl Dawkins,Darryl,darryl-dawkins,50,C,6-11,251,"JAN 11, 1957",31.0,12,Maynard Evans HS (FL),76539,,1987-88
+1610612765,1987,00,Joe Dumars,Joe,joe-dumars,4,G,6-3,190,"MAY 24, 1963",25.0,2,McNeese State,247,,1987-88
+1610612765,1987,00,James Edwards,James,james-edwards,53,C,7-1,225,"NOV 22, 1955",32.0,10,Washington,229,,1987-88
+1610612765,1987,00,Vinnie Johnson,Vinnie,vinnie-johnson,15,G,6-2,200,"SEP 01, 1956",31.0,8,Baylor,77167,,1987-88
+1610612765,1987,00,Bill Laimbeer,Bill,bill-laimbeer,40,C,6-11,245,"JAN 01, 1900",30.0,7,,100263,,1987-88
+1610612765,1987,00,Ralph Lewis,Ralph,ralph-lewis,35,G,6-6,200,"MAR 28, 1963",25.0,R,La Salle,77383,,1987-88
+1610612765,1987,00,Rick Mahorn,Rick,rick-mahorn,44,F,6-10,240,"SEP 21, 1958",29.0,7,Hampton,328,,1987-88
+1610612765,1987,00,Chuck Nevitt,Chuck,chuck-nevitt,42,C,7-5,217,"JUN 13, 1959",29.0,4,North Carolina State,77707,,1987-88
+1610612765,1987,00,Dennis Rodman,Dennis,dennis-rodman,10,F,6-7,210,"MAY 13, 1961",27.0,1,Southeastern Oklahoma State,23,,1987-88
+1610612765,1987,00,Walker Russell,Walker,walker-russell,,G,6-5,195,"OCT 26, 1960",27.0,5,Western Michigan,78048,,1987-88
+1610612765,1987,00,John Salley,John,john-salley,22,F,6-11,230,"MAY 16, 1964",24.0,1,Georgia Tech,927,,1987-88
+1610612765,1987,00,Isiah Thomas,Isiah,isiah-thomas,11,G,6-1,180,"APR 30, 1961",27.0,6,Indiana,78318,,1987-88
+1610612747,1988,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",42.0,19,UCLA,76003,,1988-89
+1610612747,1988,00,Tony Campbell,Tony,tony-campbell,19,F,6-7,215,"MAY 07, 1962",27.0,4,Ohio State,76338,,1988-89
+1610612747,1988,00,Michael Cooper,Michael,michael-cooper,21,G,6-7,170,"APR 15, 1956",33.0,10,New Mexico,76444,,1988-89
+1610612747,1988,00,A.C. Green,A.C.,ac-green,45,F,6-9,220,"OCT 04, 1963",25.0,3,Oregon State,920,,1988-89
+1610612747,1988,00,Magic Johnson,Magic,magic-johnson,32,G,6-9,215,"AUG 14, 1959",29.0,9,Michigan State,77142,,1988-89
+1610612747,1988,00,Jeff Lamp,Jeff,jeff-lamp,3,G,6-6,195,"MAR 09, 1959",30.0,5,Virginia,77332,,1988-89
+1610612747,1988,00,Mark McNamara,Mark,mark-mcnamara,31,C,6-11,235,"JUN 08, 1959",30.0,5,California,77558,,1988-89
+1610612747,1988,00,David Rivers,David,david-rivers,14,G,6-0,170,"JAN 20, 1965",24.0,R,Notre Dame,77970,,1988-89
+1610612747,1988,00,Byron Scott,Byron,byron-scott,4,G,6-3,195,"MAR 28, 1961",28.0,5,Arizona State,2,,1988-89
+1610612747,1988,00,Mychal Thompson,Mychal,mychal-thompson,43,C,6-10,226,"JAN 30, 1955",34.0,9,Minnesota,78331,,1988-89
+1610612747,1988,00,Orlando Woolridge,Orlando,orlando-woolridge,0,F,6-9,215,"DEC 16, 1959",29.0,7,Notre Dame,78615,,1988-89
+1610612747,1988,00,James Worthy,James,james-worthy,42,F,6-9,225,"FEB 27, 1961",28.0,6,North Carolina,1460,,1988-89
+1610612757,1989,00,Mark Bryant,Mark,mark-bryant,2,F-C,6-9,250,"APR 25, 1965",25.0,1,Seton Hall,95,,1989-90
+1610612757,1989,00,Wayne Cooper,Wayne,wayne-cooper,42,C,6-10,220,"NOV 16, 1956",33.0,11,New Orleans,76441,,1989-90
+1610612757,1989,00,Clyde Drexler,Clyde,clyde-drexler,22,G,6-7,210,"JUN 22, 1962",28.0,6,Houston,17,,1989-90
+1610612757,1989,00,Kevin Duckworth,Kevin,kevin-duckworth,00,C,7-0,275,"APR 01, 1964",26.0,3,Eastern Illinois,404,,1989-90
+1610612757,1989,00,Byron Irvin,Byron,byron-irvin,23,G,6-5,190,"DEC 02, 1966",23.0,R,Missouri,77096,,1989-90
+1610612757,1989,00,Nate Johnston,Nate,nate-johnston,33,C,6-8,210,"DEC 18, 1966",23.0,R,Tampa,77170,,1989-90
+1610612757,1989,00,Jerome Kersey,Jerome,jerome-kersey,25,F,6-7,215,"JUN 26, 1962",28.0,5,Longwood,760,,1989-90
+1610612757,1989,00,Drazen Petrovic,Drazen,drazen-petrovic,44,G,6-5,195,"OCT 22, 1964",25.0,R,Real Madrid,77845,,1989-90
+1610612757,1989,00,Terry Porter,Terry,terry-porter,30,G,6-3,195,"APR 08, 1963",27.0,4,Wisconsin-Stevens Point,345,,1989-90
+1610612757,1989,00,Clifford Robinson,Clifford,clifford-robinson,3,F-C,6-10,245,"DEC 16, 1966",23.0,R,Connecticut,361,,1989-90
+1610612757,1989,00,Buck Williams,Buck,buck-williams,52,F,6-8,215,"MAR 08, 1960",30.0,8,Maryland,433,,1989-90
+1610612757,1989,00,Danny Young,Danny,danny-young,21,G,6-4,175,"JUL 26, 1962",27.0,5,Wake Forest,78633,,1989-90
+1610612747,1990,00,Elden Campbell,Elden,elden-campbell,41,F-C,7-0,279,"JUL 23, 1968",22.0,R,Clemson,922,,1990-91
+1610612747,1990,00,Vlade Divac,Vlade,vlade-divac,12,C,7-1,260,"FEB 03, 1968",23.0,1,Partizan,124,,1990-91
+1610612747,1990,00,Larry Drew,Larry,larry-drew,10,G,6-1,170,"APR 02, 1958",33.0,9,Missouri,76599,,1990-91
+1610612747,1990,00,A.C. Green,A.C.,ac-green,45,F,6-9,220,"OCT 04, 1963",27.0,5,Oregon State,920,,1990-91
+1610612747,1990,00,Magic Johnson,Magic,magic-johnson,32,G,6-9,215,"AUG 14, 1959",31.0,11,Michigan State,77142,,1990-91
+1610612747,1990,00,Sam Perkins,Sam,sam-perkins,14,F,6-9,235,"JUN 14, 1961",30.0,6,North Carolina,64,,1990-91
+1610612747,1990,00,Byron Scott,Byron,byron-scott,4,G,6-3,195,"MAR 28, 1961",30.0,7,Arizona State,2,,1990-91
+1610612747,1990,00,Tony Smith,Tony,tony-smith,34,G,6-3,185,"JUN 14, 1968",23.0,R,Marquette,380,,1990-91
+1610612747,1990,00,Terry Teagle,Terry,terry-teagle,20,G,6-5,195,"APR 10, 1960",31.0,8,Baylor,78304,,1990-91
+1610612747,1990,00,Irving Thomas,Irving,irving-thomas,30,F,6-8,225,"JAN 02, 1966",25.0,R,Florida State,78317,,1990-91
+1610612747,1990,00,Mychal Thompson,Mychal,mychal-thompson,43,C,6-10,226,"JAN 30, 1955",36.0,11,Minnesota,78331,,1990-91
+1610612747,1990,00,James Worthy,James,james-worthy,42,F,6-9,225,"FEB 27, 1961",30.0,8,North Carolina,1460,,1990-91
+1610612757,1991,00,Alaa Abdelnaby,Alaa,alaa-abdelnaby,31,F,6-10,240,"JUN 24, 1968",24.0,1,Duke,76001,,1991-92
+1610612757,1991,00,Danny Ainge,Danny,danny-ainge,9,G,6-5,175,"MAR 17, 1959",33.0,10,Brigham Young,76017,,1991-92
+1610612757,1991,00,Mark Bryant,Mark,mark-bryant,2,F-C,6-9,250,"APR 25, 1965",27.0,3,Seton Hall,95,,1991-92
+1610612757,1991,00,Wayne Cooper,Wayne,wayne-cooper,42,C,6-10,220,"NOV 16, 1956",35.0,13,New Orleans,76441,,1991-92
+1610612757,1991,00,Clyde Drexler,Clyde,clyde-drexler,22,G,6-7,210,"JUN 22, 1962",30.0,8,Houston,17,,1991-92
+1610612757,1991,00,Kevin Duckworth,Kevin,kevin-duckworth,00,C,7-0,275,"APR 01, 1964",28.0,5,Eastern Illinois,404,,1991-92
+1610612757,1991,00,Jerome Kersey,Jerome,jerome-kersey,25,F,6-7,215,"JUN 26, 1962",30.0,7,Longwood,760,,1991-92
+1610612757,1991,00,Robert Pack,Robert,robert-pack,14,G,6-2,190,"FEB 03, 1969",23.0,R,Southern California,123,,1991-92
+1610612757,1991,00,Terry Porter,Terry,terry-porter,30,G,6-3,195,"APR 08, 1963",29.0,6,Wisconsin-Stevens Point,345,,1991-92
+1610612757,1991,00,Clifford Robinson,Clifford,clifford-robinson,3,F-C,6-10,245,"DEC 16, 1966",25.0,2,Connecticut,361,,1991-92
+1610612757,1991,00,Lamont Strothers,Lamont,lamont-strothers,12,G,6-4,190,"MAY 10, 1968",24.0,R,Christopher Newport,78273,,1991-92
+1610612757,1991,00,Ennis Whatley,Ennis,ennis-whatley,8,G,6-3,177,"AUG 11, 1962",29.0,6,Alabama,941,,1991-92
+1610612757,1991,00,Buck Williams,Buck,buck-williams,52,F,6-8,215,"MAR 08, 1960",32.0,10,Maryland,433,,1991-92
+1610612756,1992,00,Danny Ainge,Danny,danny-ainge,22,G,6-5,175,"MAR 17, 1959",34.0,11,Brigham Young,76017,,1992-93
+1610612756,1992,00,Charles Barkley,Charles,charles-barkley,34,F,6-6,252,"FEB 20, 1963",30.0,8,Auburn,787,,1992-93
+1610612756,1992,00,Cedric Ceballos,Cedric,cedric-ceballos,23,F,6-6,190,"AUG 02, 1969",23.0,2,California State-Fullerton,76,,1992-93
+1610612756,1992,00,Tom Chambers,Tom,tom-chambers,24,F,6-10,220,"JUN 21, 1959",34.0,11,Utah,1472,,1992-93
+1610612756,1992,00,Richard Dumas,Richard,richard-dumas,21,F,6-7,200,"MAY 19, 1969",24.0,R,Oklahoma State,30,,1992-93
+1610612756,1992,00,Kevin Johnson,Kevin,kevin-johnson,7,G,6-1,180,"MAR 04, 1966",27.0,5,California,134,,1992-93
+1610612756,1992,00,Frank Johnson,Frank,frank-johnson,3,G,6-3,185,"NOV 23, 1958",34.0,8,Wake Forest,77146,,1992-93
+1610612756,1992,00,Tim Kempton,Tim,tim-kempton,8,C,6-10,245,"JAN 25, 1964",29.0,3,Notre Dame,1118,,1992-93
+1610612756,1992,00,Negele Knight,Negele,negele-knight,,G,6-1,175,"MAR 03, 1967",26.0,2,Dayton,1861,,1992-93
+1610612756,1992,00,Dan Majerle,Dan,dan-majerle,9,G,6-6,215,"SEP 09, 1965",27.0,4,Central Michigan,105,,1992-93
+1610612756,1992,00,Oliver Miller,Oliver,oliver-miller,25,F-C,6-9,325,"APR 06, 1970",23.0,R,Arkansas,932,,1992-93
+1610612756,1992,00,Jerrod Mustaf,Jerrod,jerrod-mustaf,0,F,6-10,238,"OCT 28, 1969",23.0,2,Maryland,1054,,1992-93
+1610612756,1992,00,Alex Stivrins,Alex,alex-stivrins,11,F,6-8,220,"NOV 29, 1962",30.0,1,Colorado,78261,,1992-93
+1610612756,1992,00,Mark West,Mark,mark-west,41,C,6-10,230,"NOV 05, 1960",32.0,9,Old Dominion,770,,1992-93
+1610612752,1993,00,Eric Anderson,Eric,eric-anderson,42,F,6-9,220,"MAY 26, 1970",24.0,1,Indiana,944,,1993-94
+1610612752,1993,00,Greg Anthony,Greg,greg-anthony,50,G,6-0,176,"NOV 15, 1967",26.0,2,UNLV,21,,1993-94
+1610612752,1993,00,Rolando Blackman,Rolando,rolando-blackman,20,G,6-6,190,"FEB 26, 1959",35.0,12,Kansas State,76176,,1993-94
+1610612752,1993,00,Anthony Bonner,Anthony,anthony-bonner,4,F,6-8,215,"JUN 08, 1968",26.0,3,St. Louis,41,,1993-94
+1610612752,1993,00,Hubert Davis,Hubert,hubert-davis,44,G,6-5,183,"MAY 17, 1970",24.0,1,North Carolina,93,,1993-94
+1610612752,1993,00,Patrick Ewing,Patrick,patrick-ewing,33,C,7-0,240,"AUG 05, 1962",31.0,8,Georgetown,121,,1993-94
+1610612752,1993,00,Corey Gaines,Corey,corey-gaines,7,G,6-3,195,"JUN 01, 1965",29.0,3,Loyola-Marymount,76770,,1993-94
+1610612752,1993,00,Derek Harper,Derek,derek-harper,11,G,6-4,185,"OCT 13, 1961",32.0,10,Illinois,157,,1993-94
+1610612752,1993,00,Anthony Mason,Anthony,anthony-mason,14,F,6-8,270,"DEC 14, 1966",27.0,4,Tennessee State,193,,1993-94
+1610612752,1993,00,Charles Oakley,Charles,charles-oakley,34,F-C,6-9,248,"DEC 18, 1963",30.0,8,Virginia Union,891,,1993-94
+1610612752,1993,00,Doc Rivers,Doc,doc-rivers,25,G,6-4,185,"OCT 13, 1961",32.0,10,Marquette,470,,1993-94
+1610612752,1993,00,Charles Smith,Charles,charles-smith,54,F,6-10,244,"JUL 16, 1965",28.0,5,Pittsburgh,293,,1993-94
+1610612752,1993,00,John Starks,John,john-starks,3,G,6-3,180,"AUG 10, 1965",28.0,4,Oklahoma State,317,,1993-94
+1610612752,1993,00,Herb Williams,Herb,herb-williams,32,C,6-10,242,"FEB 16, 1958",36.0,12,Ohio State,1006,,1993-94
+1610612753,1994,00,Nick Anderson,Nick,nick-anderson,25,G,6-6,205,"JAN 20, 1968",27.0,5,Illinois,98,,1994-95
+1610612753,1994,00,Darrell Armstrong,Darrell,darrell-armstrong,10,G,6-1,180,"JUN 22, 1968",27.0,R,Fayetteville State,353,,1994-95
+1610612753,1994,00,Anthony Avent,Anthony,anthony-avent,00,F,6-9,235,"OCT 18, 1969",25.0,2,Seton Hall,138,,1994-95
+1610612753,1994,00,Anthony Bowie,Anthony,anthony-bowie,14,G,6-6,190,"NOV 09, 1963",31.0,5,Oklahoma,194,,1994-95
+1610612753,1994,00,Horace Grant,Horace,horace-grant,54,F,6-10,235,"JUL 04, 1965",29.0,7,Clemson,270,,1994-95
+1610612753,1994,00,Geert Hammink,Geert,geert-hammink,43,C,7-0,262,"JUL 12, 1969",25.0,1,Louisiana State,903,,1994-95
+1610612753,1994,00,Anfernee Hardaway,Anfernee,anfernee-hardaway,1,G,6-7,207,"JUL 18, 1971",23.0,1,Memphis,358,,1994-95
+1610612753,1994,00,Shaquille O'Neal,Shaquille,shaquille-oneal,32,C,7-1,301,"MAR 06, 1972",23.0,2,Louisiana State,406,,1994-95
+1610612753,1994,00,Tree Rollins,Tree,tree-rollins,30,C,7-1,235,"JUN 16, 1955",40.0,17,Clemson,78014,,1994-95
+1610612753,1994,00,Donald Royal,Donald,donald-royal,5,F,6-8,210,"MAY 22, 1966",29.0,4,Notre Dame,140,,1994-95
+1610612753,1994,00,Dennis Scott,Dennis,dennis-scott,3,F,6-8,229,"SEP 05, 1968",26.0,4,Georgia Tech,192,,1994-95
+1610612753,1994,00,Brian Shaw,Brian,brian-shaw,20,G,6-6,194,"MAR 22, 1966",29.0,5,California-Santa Barbara,216,,1994-95
+1610612753,1994,00,Brooks Thompson,Brooks,brooks-thompson,22,G,6-4,193,"JUL 19, 1970",24.0,R,Oklahoma State,240,,1994-95
+1610612753,1994,00,Keith Tower,Keith,keith-tower,55,C,6-11,250,"MAY 15, 1970",25.0,1,Notre Dame,700,,1994-95
+1610612753,1994,00,Jeff Turner,Jeff,jeff-turner,31,F,6-9,230,"APR 09, 1962",33.0,8,Vanderbilt,78381,,1994-95
+1610612760,1995,00,Sherell Ford,Sherell,sherell-ford,1,F,6-7,210,"AUG 26, 1972",23.0,R,Illinois-Chicago,726,,1995-96
+1610612760,1995,00,Vincent Askew,Vincent,vincent-askew,2,F-G,6-6,235,"FEB 28, 1966",30.0,6,Memphis,355,,1995-96
+1610612760,1995,00,Nate McMillan,Nate,nate-mcmillan,10,G,6-5,200,"AUG 03, 1964",31.0,9,North Carolina State,203,,1995-96
+1610612760,1995,00,Detlef Schrempf,Detlef,detlef-schrempf,11,F,6-10,235,"JAN 21, 1963",33.0,10,Washington,96,,1995-96
+1610612760,1995,00,Eric Snow,Eric,eric-snow,13,G,6-3,200,"APR 24, 1973",23.0,R,Michigan State,727,,1995-96
+1610612760,1995,00,Sam Perkins,Sam,sam-perkins,14,C-F,6-9,255,"JUN 14, 1961",35.0,11,North Carolina,64,,1995-96
+1610612760,1995,00,Gary Payton,Gary,gary-payton,20,G,6-4,190,"JUL 23, 1968",27.0,5,Oregon State,56,,1995-96
+1610612760,1995,00,David Wingate,David,david-wingate,25,G-F,6-5,185,"DEC 15, 1963",32.0,9,Georgetown,766,,1995-96
+1610612760,1995,00,Hersey Hawkins,Hersey,hersey-hawkins,33,G,6-3,190,"SEP 29, 1966",29.0,7,Bradley,765,,1995-96
+1610612760,1995,00,Frank Brickowski,Frank,frank-brickowski,34,C-F,6-9,248,"AUG 14, 1959",36.0,10,Penn State,783,,1995-96
+1610612760,1995,00,Shawn Kemp,Shawn,shawn-kemp,40,F,6-10,245,"NOV 26, 1969",26.0,6,Concord HS (IN),431,,1995-96
+1610612760,1995,00,Ervin Johnson,Ervin,ervin-johnson,50,C,6-11,245,"DEC 21, 1967",28.0,2,New Orleans,911,,1995-96
+1610612760,1995,00,Steve Scheffler,Steve,steve-scheffler,55,C,6-9,250,"SEP 03, 1967",28.0,5,Purdue,88,,1995-96
+1610612762,1996,00,Greg Ostertag,Greg,greg-ostertag,00,C,7-2,280,"MAR 06, 1973",24.0,1,Kansas,731,,1996-97
+1610612762,1996,00,Bryon Russell,Bryon,bryon-russell,3,F,6-7,225,"DEC 31, 1970",26.0,3,Long Beach State,935,,1996-97
+1610612762,1996,00,Howard Eisley,Howard,howard-eisley,10,G,6-2,177,"DEC 04, 1972",24.0,2,Boston College,458,,1996-97
+1610612762,1996,00,John Stockton,John,john-stockton,12,G,6-1,175,"MAR 26, 1962",35.0,12,Gonzaga,304,,1996-97
+1610612762,1996,00,Jeff Hornacek,Jeff,jeff-hornacek,14,G,6-4,190,"MAY 03, 1963",34.0,10,Iowa State,204,,1996-97
+1610612762,1996,00,Adam Keefe,Adam,adam-keefe,31,F,6-9,241,"FEB 22, 1970",27.0,4,Stanford,228,,1996-97
+1610612762,1996,00,Karl Malone,Karl,karl-malone,32,F,6-9,256,"JUL 24, 1963",33.0,11,Louisiana Tech,252,,1996-97
+1610612762,1996,00,Chris Morris,Chris,chris-morris,34,F,6-8,220,"JAN 20, 1966",31.0,8,Auburn,356,,1996-97
+1610612762,1996,00,Shandon Anderson,Shandon,shandon-anderson,40,F-G,6-6,208,"DEC 31, 1973",23.0,R,Georgia,1000,,1996-97
+1610612762,1996,00,Stephen Howard,Stephen,stephen-howard,43,F,6-9,245,"JUL 15, 1970",26.0,2,DePaul,1128,,1996-97
+1610612762,1996,00,Greg Foster,Greg,greg-foster,44,C,6-11,250,"OCT 03, 1968",28.0,6,Texas-El Paso,323,,1996-97
+1610612762,1996,00,Antoine Carr,Antoine,antoine-carr,55,C-F,6-9,255,"JUL 23, 1961",35.0,12,Wichita State,156,,1996-97
+1610612762,1997,00,Greg Ostertag,Greg,greg-ostertag,0,C,7-2,280,"MAR 06, 1973",25.0,2,Kansas,731,,1997-98
+1610612762,1997,00,Bryon Russell,Bryon,bryon-russell,3,F,6-7,225,"DEC 31, 1970",27.0,4,Long Beach State,935,,1997-98
+1610612762,1997,00,Howard Eisley,Howard,howard-eisley,10,G,6-2,180,"DEC 04, 1972",25.0,3,Boston College,458,,1997-98
+1610612762,1997,00,Jacque Vaughn,Jacque,jacque-vaughn,11,G,6-1,190,"FEB 11, 1975",23.0,R,Kansas,1521,,1997-98
+1610612762,1997,00,John Stockton,John,john-stockton,12,G,6-1,175,"MAR 26, 1962",36.0,13,Gonzaga,304,,1997-98
+1610612762,1997,00,Jeff Hornacek,Jeff,jeff-hornacek,14,G,6-4,190,"MAY 03, 1963",35.0,11,Iowa State,204,,1997-98
+1610612762,1997,00,Adam Keefe,Adam,adam-keefe,31,F,6-9,230,"FEB 22, 1970",28.0,5,Stanford,228,,1997-98
+1610612762,1997,00,Karl Malone,Karl,karl-malone,32,F,6-9,256,"JUL 24, 1963",34.0,12,Louisiana Tech,252,,1997-98
+1610612762,1997,00,Chris Morris,Chris,chris-morris,34,F,6-8,228,"JAN 20, 1966",32.0,9,Auburn,356,,1997-98
+1610612762,1997,00,Shandon Anderson,Shandon,shandon-anderson,40,F,6-6,210,"DEC 31, 1973",24.0,1,Georgia,1000,,1997-98
+1610612762,1997,00,Greg Foster,Greg,greg-foster,44,C,6-11,250,"OCT 03, 1968",29.0,7,Texas-El Paso,323,,1997-98
+1610612762,1997,00,Antoine Carr,Antoine,antoine-carr,55,C-F,6-9,270,"JUL 23, 1961",36.0,13,Wichita State,156,,1997-98
+1610612752,1998,00,Chris Childs,Chris,chris-childs,1,G,6-3,195,"NOV 20, 1967",31.0,4,Boise State,164,,1998-99
+1610612752,1998,00,Larry Johnson,Larry,larry-johnson,2,F,6-7,235,"MAR 14, 1969",30.0,7,UNLV,913,,1998-99
+1610612752,1998,00,Latrell Sprewell,Latrell,latrell-sprewell,8,F-G,6-5,190,"SEP 08, 1970",28.0,6,Alabama,84,,1998-99
+1610612752,1998,00,Rick Brunson,Rick,rick-brunson,9,G,6-4,190,"JUN 14, 1972",27.0,1,Temple,1594,,1998-99
+1610612752,1998,00,Chris Dudley,Chris,chris-dudley,14,C,6-11,260,"FEB 22, 1965",34.0,11,Yale,201,,1998-99
+1610612752,1998,00,Allan Houston,Allan,allan-houston,20,G,6-6,200,"APR 20, 1971",28.0,5,Tennessee,275,,1998-99
+1610612752,1998,00,Charlie Ward,Charlie,charlie-ward,21,G,6-2,190,"OCT 12, 1970",28.0,4,Florida State,369,,1998-99
+1610612752,1998,00,Marcus Camby,Marcus,marcus-camby,23,F-C,6-11,225,"MAR 22, 1974",25.0,2,Massachusetts,948,,1998-99
+1610612752,1998,00,David Wingate,David,david-wingate,26,G-F,6-5,187,"DEC 15, 1963",35.0,12,Georgetown,766,,1998-99
+1610612752,1998,00,Herb Williams,Herb,herb-williams,32,C,6-11,260,"FEB 16, 1958",41.0,17,Ohio State,1006,,1998-99
+1610612752,1998,00,Patrick Ewing,Patrick,patrick-ewing,33,C,7-0,255,"AUG 05, 1962",36.0,13,Georgetown,121,,1998-99
+1610612752,1998,00,Kurt Thomas,Kurt,kurt-thomas,40,F,6-9,230,"OCT 04, 1972",26.0,3,TCU,703,,1998-99
+1610612754,1999,00,Travis Best,Travis,travis-best,4,G,5-11,182,"JUL 12, 1972",27.0,4,Georgia Tech,696,,1999-00
+1610612754,1999,00,Jalen Rose,Jalen,jalen-rose,5,F-G,6-8,210,"JAN 30, 1973",27.0,5,Michigan,147,,1999-00
+1610612754,1999,00,Derrick McKey,Derrick,derrick-mckey,9,F,6-10,241,"OCT 10, 1966",33.0,12,Alabama,365,,1999-00
+1610612754,1999,00,Mark Jackson,Mark,mark-jackson,13,G,6-3,185,"APR 01, 1965",35.0,12,St. John's (NY),349,,1999-00
+1610612754,1999,00,Sam Perkins,Sam,sam-perkins,14,C-F,6-9,260,"JUN 14, 1961",39.0,15,North Carolina,64,,1999-00
+1610612754,1999,00,Chris Mullin,Chris,chris-mullin,17,F,6-7,215,"JUL 30, 1963",36.0,14,St. John's (NY),904,,1999-00
+1610612754,1999,00,Jonathan Bender,Jonathan,jonathan-bender,24,F,6-11,202,"JAN 30, 1981",19.0,R,Picayune HS (MS),1886,,1999-00
+1610612754,1999,00,Reggie Miller,Reggie,reggie-miller,31,G,6-7,185,"AUG 24, 1965",34.0,12,UCLA,397,,1999-00
+1610612754,1999,00,Dale Davis,Dale,dale-davis,32,F,6-11,230,"MAR 25, 1969",31.0,8,Clemson,905,,1999-00
+1610612754,1999,00,Austin Croshere,Austin,austin-croshere,44,F,6-9,235,"MAY 01, 1975",25.0,2,Providence,1506,,1999-00
+1610612754,1999,00,Rik Smits,Rik,rik-smits,45,C,7-4,265,"AUG 23, 1966",33.0,11,Marist,22,,1999-00
+1610612754,1999,00,Zan Tabak,Zan,zan-tabak,55,C,7-0,245,"JUN 15, 1970",30.0,4,Olimpia Milano,440,,1999-00
+1610612755,2000,00,Allen Iverson,Allen,allen-iverson,3,G,6-0,165,"JUN 07, 1975",26.0,4,Georgetown,947,,2000-01
+1610612755,2000,00,Kevin Ollie,Kevin,kevin-ollie,5,G,6-2,195,"DEC 27, 1972",28.0,3,Connecticut,1563,,2000-01
+1610612755,2000,00,Aaron McKie,Aaron,aaron-mckie,8,G,6-5,209,"OCT 02, 1972",28.0,6,Temple,243,,2000-01
+1610612755,2000,00,George Lynch,George,george-lynch,9,F,6-8,228,"SEP 03, 1970",30.0,7,North Carolina,248,,2000-01
+1610612755,2000,00,Raja Bell,Raja,raja-bell,11,G,6-5,204,"SEP 19, 1976",24.0,R,Florida International,1952,,2000-01
+1610612755,2000,00,Eric Snow,Eric,eric-snow,20,G,6-3,204,"APR 24, 1973",28.0,5,Michigan State,727,,2000-01
+1610612755,2000,00,Rodney Buford,Rodney,rodney-buford,23,G-F,6-5,189,"NOV 02, 1977",23.0,1,Creighton,1934,,2000-01
+1610612755,2000,00,Jumaine Jones,Jumaine,jumaine-jones,33,C,6-8,218,"FEB 10, 1979",22.0,1,Georgia,1908,,2000-01
+1610612755,2000,00,Tyrone Hill,Tyrone,tyrone-hill,40,F,6-9,250,"MAR 19, 1968",33.0,10,Xavier,238,,2000-01
+1610612755,2000,00,Todd MacCulloch,Todd,todd-macculloch,50,C,7-0,255,"JAN 27, 1976",25.0,1,Washington,1928,,2000-01
+1610612755,2000,00,Matt Geiger,Matt,matt-geiger,52,C,7-1,248,"SEP 10, 1969",31.0,8,Georgia Tech,761,,2000-01
+1610612755,2000,00,Dikembe Mutombo,Dikembe,dikembe-mutombo,55,C,7-2,265,"JUN 25, 1966",35.0,9,Georgetown,87,,2000-01
+1610612751,2001,00,Brandon Armstrong,Brandon,brandon-armstrong,1,G,6-5,188,"JUN 16, 1980",22.0,R,Pepperdine,2220,,2001-02
+1610612751,2001,00,Jason Kidd,Jason,jason-kidd,5,G,6-4,212,"MAR 23, 1973",29.0,7,California,467,,2001-02
+1610612751,2001,00,Kenyon Martin,Kenyon,kenyon-martin,6,F,6-9,234,"DEC 30, 1977",24.0,1,Cincinnati,2030,,2001-02
+1610612751,2001,00,Anthony Johnson,Anthony,anthony-johnson,8,G,6-3,190,"OCT 02, 1974",27.0,4,College of Charleston,1533,,2001-02
+1610612751,2001,00,Todd MacCulloch,Todd,todd-macculloch,11,C,7-0,280,"JAN 27, 1976",26.0,2,Washington,1928,,2001-02
+1610612751,2001,00,Lucious Harris,Lucious,lucious-harris,12,G,6-5,205,"DEC 18, 1970",31.0,8,Long Beach State,446,,2001-02
+1610612751,2001,00,Donny Marshall,Donny,donny-marshall,13,F,6-7,230,"JUL 17, 1972",29.0,3,Connecticut,681,,2001-02
+1610612751,2001,00,Brian Scalabrine,Brian,brian-scalabrine,21,F,6-9,240,"MAR 18, 1978",24.0,R,Southern California,2243,,2001-02
+1610612751,2001,00,Richard Jefferson,Richard,richard-jefferson,24,F,6-7,222,"JUN 21, 1980",22.0,R,Arizona,2210,,2001-02
+1610612751,2001,00,Kerry Kittles,Kerry,kerry-kittles,30,G,6-5,180,"JUN 12, 1974",28.0,4,Villanova,954,,2001-02
+1610612751,2001,00,Aaron Williams,Aaron,aaron-williams,34,C-F,6-9,240,"OCT 02, 1971",30.0,7,Xavier,1425,,2001-02
+1610612751,2001,00,Jason Collins,Jason,jason-collins,35,C,7-0,260,"DEC 02, 1978",23.0,R,Stanford,2215,,2001-02
+1610612751,2001,00,Keith Van Horn,Keith,keith-van-horn,44,F,6-10,255,"OCT 23, 1975",26.0,4,Utah,1496,,2001-02
+1610612751,2002,00,Chris Childs,Chris,chris-childs,,G,6-3,195,"NOV 20, 1967",35.0,8,Boise State,164,,2002-03
+1610612751,2002,00,Brandon Armstrong,Brandon,brandon-armstrong,1,G,6-5,185,"JUN 16, 1980",23.0,1,Pepperdine,2220,,2002-03
+1610612751,2002,00,Jason Kidd,Jason,jason-kidd,5,G,6-4,212,"MAR 23, 1973",30.0,8,California,467,,2002-03
+1610612751,2002,00,Kenyon Martin,Kenyon,kenyon-martin,6,F,6-9,234,"DEC 30, 1977",25.0,2,Cincinnati,2030,,2002-03
+1610612751,2002,00,Tamar Slay,Tamar,tamar-slay,8,G,6-8,215,"APR 02, 1980",23.0,R,Marshall,2447,,2002-03
+1610612751,2002,00,Lucious Harris,Lucious,lucious-harris,12,G,6-5,205,"DEC 18, 1970",32.0,9,Long Beach State,446,,2002-03
+1610612751,2002,00,Donny Marshall,Donny,donny-marshall,13,F,6-7,230,"JUL 17, 1972",30.0,4,Connecticut,681,,2002-03
+1610612751,2002,00,Jamie Feick,Jamie,jamie-feick,14,F,6-8,255,"JUL 03, 1974",28.0,5,Michigan State,994,,2002-03
+1610612751,2002,00,John Celestand,John,john-celestand,20,G,6-3,190,"MAR 06, 1977",26.0,1,Villanova,1911,,2002-03
+1610612751,2002,00,Brian Scalabrine,Brian,brian-scalabrine,21,F,6-9,240,"MAR 18, 1978",25.0,1,Southern California,2243,,2002-03
+1610612751,2002,00,Richard Jefferson,Richard,richard-jefferson,24,F,6-7,222,"JUN 21, 1980",23.0,1,Arizona,2210,,2002-03
+1610612751,2002,00,Kerry Kittles,Kerry,kerry-kittles,30,G,6-5,180,"JUN 12, 1974",29.0,5,Villanova,954,,2002-03
+1610612751,2002,00,Aaron Williams,Aaron,aaron-williams,34,C-F,6-9,240,"OCT 02, 1971",31.0,8,Xavier,1425,,2002-03
+1610612751,2002,00,Jason Collins,Jason,jason-collins,35,C,7-0,260,"DEC 02, 1978",24.0,1,Stanford,2215,,2002-03
+1610612751,2002,00,Rodney Rogers,Rodney,rodney-rogers,54,F,6-7,255,"JUN 20, 1971",32.0,9,Wake Forest,915,,2002-03
+1610612751,2002,00,Dikembe Mutombo,Dikembe,dikembe-mutombo,55,C,7-2,265,"JUN 25, 1966",37.0,11,Georgetown,87,,2002-03
+1610612747,2003,00,Derek Fisher,Derek,derek-fisher,2,G,6-1,205,"AUG 09, 1974",29.0,7,Arkansas-Little Rock,965,,2003-04
+1610612747,2003,00,Devean George,Devean,devean-george,3,F,6-8,240,"AUG 29, 1977",26.0,4,Augsburg,1904,,2003-04
+1610612747,2003,00,Luke Walton,Luke,luke-walton,4,F,6-8,235,"MAR 28, 1980",24.0,R,Arizona,2575,,2003-04
+1610612747,2003,00,Brian Cook,Brian,brian-cook,7,F,6-9,234,"DEC 04, 1980",23.0,R,Illinois,2567,,2003-04
+1610612747,2003,00,Kobe Bryant,Kobe,kobe-bryant,8,G,6-6,220,"AUG 23, 1978",25.0,7,Lower Merion HS (PA),977,,2003-04
+1610612747,2003,00,Bryon Russell,Bryon,bryon-russell,9,G-F,6-7,225,"DEC 31, 1970",33.0,10,Long Beach State,935,,2003-04
+1610612747,2003,00,Karl Malone,Karl,karl-malone,11,F,6-9,259,"JUL 24, 1963",40.0,18,Louisiana Tech,252,,2003-04
+1610612747,2003,00,Slava Medvedenko,Slava,slava-medvedenko,14,F,6-10,250,"APR 04, 1979",25.0,3,Kyiv,2098,,2003-04
+1610612747,2003,00,Rick Fox,Rick,rick-fox,17,F,6-7,235,"JUL 24, 1969",34.0,12,North Carolina,296,,2003-04
+1610612747,2003,00,Gary Payton,Gary,gary-payton,20,G,6-4,180,"JUL 23, 1968",35.0,13,Oregon State,56,,2003-04
+1610612747,2003,00,Kareem Rush,Kareem,kareem-rush,21,G,6-6,215,"OCT 30, 1980",23.0,1,Missouri,2416,,2003-04
+1610612747,2003,00,Jamal Sampson,Jamal,jamal-sampson,31,F,6-11,235,"MAY 15, 1983",21.0,1,California,2441,,2003-04
+1610612747,2003,00,Shaquille O'Neal,Shaquille,shaquille-oneal,34,C,7-1,340,"MAR 06, 1972",32.0,11,Louisiana State,406,,2003-04
+1610612747,2003,00,Horace Grant,Horace,horace-grant,54,C,6-10,245,"JUL 04, 1965",38.0,16,Clemson,270,,2003-04
+1610612765,2004,00,Chauncey Billups,Chauncey,chauncey-billups,1,G,6-3,202,"SEP 25, 1976",28.0,7,Colorado,1497,,2004-05
+1610612765,2004,00,Ben Wallace,Ben,ben-wallace,3,C,6-9,240,"SEP 10, 1974",30.0,8,Virginia Union,1112,,2004-05
+1610612765,2004,00,Horace Jenkins,Horace,horace-jenkins,5,G,6-1,180,"OCT 14, 1974",30.0,R,William Paterson,2798,,2004-05
+1610612765,2004,00,Darvin Ham,Darvin,darvin-ham,8,F-G,6-7,240,"JUL 23, 1973",31.0,7,Texas Tech,1032,,2004-05
+1610612765,2004,00,Lindsey Hunter,Lindsey,lindsey-hunter,10,G,6-2,195,"DEC 03, 1970",34.0,11,Jackson State,283,,2004-05
+1610612765,2004,00,Ronald Dupree,Ronald,ronald-dupree,12,F,6-7,209,"JAN 26, 1981",24.0,1,Louisiana State,2648,,2004-05
+1610612765,2004,00,Carlos Delfino,Carlos,carlos-delfino,20,G,6-6,230,"AUG 29, 1982",22.0,R,Fortitudo Bologna,2568,,2004-05
+1610612765,2004,00,Tayshaun Prince,Tayshaun,tayshaun-prince,22,F,6-9,215,"FEB 28, 1980",25.0,2,Kentucky,2419,,2004-05
+1610612765,2004,00,Antonio McDyess,Antonio,antonio-mcdyess,24,F,6-9,245,"SEP 07, 1974",30.0,8,Alabama,686,,2004-05
+1610612765,2004,00,Carlos Arroyo,Carlos,carlos-arroyo,30,G,6-2,202,"JUL 30, 1979",25.0,3,Florida International,2306,,2004-05
+1610612765,2004,00,Darko Milicic,Darko,darko-milicic,31,F-C,7-0,245,"JUN 20, 1985",20.0,1,Hemoform,2545,,2004-05
+1610612765,2004,00,Richard Hamilton,Richard,richard-hamilton,32,G-F,6-7,193,"FEB 14, 1978",27.0,5,Connecticut,1888,,2004-05
+1610612765,2004,00,Rasheed Wallace,Rasheed,rasheed-wallace,36,F-C,6-11,230,"SEP 17, 1974",30.0,9,North Carolina,739,,2004-05
+1610612765,2004,00,Elden Campbell,Elden,elden-campbell,41,C-F,7-0,279,"JUL 23, 1968",36.0,14,Clemson,922,,2004-05
+1610612742,2005,00,Keith Van Horn,Keith,keith-van-horn,2,F,6-10,245,"OCT 23, 1975",30.0,8,Utah,1496,,2005-06
+1610612742,2005,00,Josh Howard,Josh,josh-howard,5,F,6-7,210,"APR 28, 1980",26.0,2,Wake Forest,2572,,2005-06
+1610612742,2005,00,Marquis Daniels,Marquis,marquis-daniels,6,G,6-6,200,"JAN 07, 1981",25.0,2,Auburn,2605,,2005-06
+1610612742,2005,00,DeSagana Diop,DeSagana,desagana-diop,7,C,7-0,280,"JAN 30, 1982",24.0,4,No College,2205,,2005-06
+1610612742,2005,00,Darrell Armstrong,Darrell,darrell-armstrong,10,G,6-1,180,"JUN 22, 1968",38.0,11,Fayetteville State,353,,2005-06
+1610612742,2005,00,Erick Dampier,Erick,erick-dampier,25,C,6-11,265,"JUL 14, 1975",30.0,9,Mississippi State,956,,2005-06
+1610612742,2005,00,DJ Mbenga,DJ,dj-mbenga,28,C,7-0,245,"DEC 30, 1980",25.0,1,Spirou Charleroi,2788,,2005-06
+1610612742,2005,00,Jason Terry,Jason,jason-terry,31,G,6-2,180,"SEP 15, 1977",28.0,6,Arizona,1891,,2005-06
+1610612742,2005,00,Josh Powell,Josh,josh-powell,33,F,6-9,225,"JAN 25, 1983",23.0,R,North Carolina State,2694,,2005-06
+1610612742,2005,00,Devin Harris,Devin,devin-harris,34,G,6-3,185,"FEB 27, 1983",23.0,1,Wisconsin,2734,,2005-06
+1610612742,2005,00,Dirk Nowitzki,Dirk,dirk-nowitzki,41,F,7-0,245,"JUN 19, 1978",28.0,7,DJK Wurzburg,1717,,2005-06
+1610612742,2005,00,Jerry Stackhouse,Jerry,jerry-stackhouse,42,G-F,6-6,218,"NOV 05, 1974",31.0,10,North Carolina,711,,2005-06
+1610612742,2005,00,Adrian Griffin,Adrian,adrian-griffin,44,G-F,6-5,230,"JUL 04, 1974",31.0,6,Seton Hall,1559,,2005-06
+1610612739,2006,00,Daniel Gibson,Daniel,daniel-gibson,1,G,6-2,190,"FEB 27, 1986",21.0,R,Texas,200789,,2006-07
+1610612739,2006,00,Sasha Pavlovic,Sasha,sasha-pavlovic,3,F,6-7,210,"NOV 15, 1983",23.0,3,Buducnost,2562,,2006-07
+1610612739,2006,00,David Wesley,David,david-wesley,4,G,6-1,203,"NOV 14, 1970",36.0,13,Baylor,133,,2006-07
+1610612739,2006,00,Shannon Brown,Shannon,shannon-brown,6,G,6-4,205,"NOV 29, 1985",21.0,R,Michigan State,200769,,2006-07
+1610612739,2006,00,Zydrunas Ilgauskas,Zydrunas,zydrunas-ilgauskas,11,C,7-3,260,"JUN 05, 1975",32.0,8,Atletas Kaunas,980,,2006-07
+1610612739,2006,00,Ira Newble,Ira,ira-newble,14,F-G,6-7,220,"JAN 20, 1975",32.0,6,Miami (Ohio),1956,,2006-07
+1610612739,2006,00,Anderson Varejao,Anderson,anderson-varejao,17,C-F,6-10,240,"SEP 28, 1982",24.0,2,FC Barcelona,2760,,2006-07
+1610612739,2006,00,Damon Jones,Damon,damon-jones,19,G,6-3,190,"AUG 25, 1976",30.0,8,Houston,1800,,2006-07
+1610612739,2006,00,Eric Snow,Eric,eric-snow,20,G,6-3,205,"APR 24, 1973",34.0,11,Michigan State,727,,2006-07
+1610612739,2006,00,LeBron James,LeBron,lebron-james,23,F,6-8,240,"DEC 30, 1984",22.0,3,St. Vincent-St. Mary HS (OH),2544,,2006-07
+1610612739,2006,00,Donyell Marshall,Donyell,donyell-marshall,24,F,6-9,230,"MAY 18, 1973",34.0,12,Connecticut,923,,2006-07
+1610612739,2006,00,Dwayne Jones,Dwayne,dwayne-jones,27,F-C,6-11,251,"JUN 09, 1983",24.0,1,St. Joseph's (PA),101204,,2006-07
+1610612739,2006,00,Scot Pollard,Scot,scot-pollard,31,C-F,6-11,265,"FEB 12, 1975",32.0,9,Kansas,1513,,2006-07
+1610612739,2006,00,Larry Hughes,Larry,larry-hughes,32,G,6-5,184,"JAN 23, 1979",28.0,8,St. Louis,1716,,2006-07
+1610612739,2006,00,Drew Gooden,Drew,drew-gooden,90,F-C,6-10,250,"SEP 24, 1981",25.0,4,Kansas,2400,,2006-07
+1610612747,2007,00,Derek Fisher,Derek,derek-fisher,2,G,6-1,210,"AUG 09, 1974",33.0,11,Arkansas-Little Rock,965,,2007-08
+1610612747,2007,00,Trevor Ariza,Trevor,trevor-ariza,3,F,6-8,210,"JUN 30, 1985",23.0,3,UCLA,2772,,2007-08
+1610612747,2007,00,Luke Walton,Luke,luke-walton,4,F,6-8,235,"MAR 28, 1980",28.0,4,Arizona,2575,,2007-08
+1610612747,2007,00,Jordan Farmar,Jordan,jordan-farmar,5,G,6-2,180,"NOV 30, 1986",21.0,1,UCLA,200770,,2007-08
+1610612747,2007,00,Lamar Odom,Lamar,lamar-odom,7,F,6-10,230,"NOV 06, 1979",28.0,8,Rhode Island,1885,,2007-08
+1610612747,2007,00,Vladimir Radmanovic,Vladimir,vladimir-radmanovic,10,F,6-10,235,"NOV 19, 1980",27.0,6,FMP,2209,,2007-08
+1610612747,2007,00,Coby Karl,Coby,coby-karl,11,G,6-5,215,"JUN 08, 1983",25.0,R,Boise State,201207,,2007-08
+1610612747,2007,00,Ira Newble,Ira,ira-newble,14,G-F,6-7,220,"JAN 20, 1975",33.0,7,Miami (Ohio),1956,,2007-08
+1610612747,2007,00,Pau Gasol,Pau,pau-gasol,16,F-C,7-0,250,"JUL 06, 1980",27.0,6,FC Barcelona,2200,,2007-08
+1610612747,2007,00,Andrew Bynum,Andrew,andrew-bynum,17,C,7-0,285,"OCT 27, 1987",20.0,2,St. Joseph HS (NJ),101115,,2007-08
+1610612747,2007,00,Sasha Vujacic,Sasha,sasha-vujacic,18,G,6-7,205,"MAR 08, 1984",24.0,3,Udine,2756,,2007-08
+1610612747,2007,00,Ronny Turiaf,Ronny,ronny-turiaf,21,F-C,6-10,250,"JAN 13, 1983",25.0,2,Gonzaga,101142,,2007-08
+1610612747,2007,00,Kobe Bryant,Kobe,kobe-bryant,24,G,6-6,205,"AUG 23, 1978",29.0,11,Lower Merion HS (PA),977,,2007-08
+1610612747,2007,00,DJ Mbenga,DJ,dj-mbenga,28,C,7-0,255,"DEC 30, 1980",27.0,3,Spirou Charleroi,2788,,2007-08
+1610612747,2007,00,Chris Mihm,Chris,chris-mihm,31,C,7-0,265,"JUL 16, 1979",28.0,6,Texas-Austin,2036,,2007-08
+1610612753,2008,00,Rafer Alston,Rafer,rafer-alston,1,G,6-2,175,"JUL 24, 1976",32.0,9,Fresno State,1747,,2008-09
+1610612753,2008,00,Tony Battie,Tony,tony-battie,4,C-F,6-11,240,"FEB 11, 1976",33.0,10,Texas Tech,1499,,2008-09
+1610612753,2008,00,JJ Redick,JJ,jj-redick,7,G,6-4,190,"JUN 24, 1984",25.0,2,Duke,200755,,2008-09
+1610612753,2008,00,Anthony Johnson,Anthony,anthony-johnson,8,G,6-3,195,"OCT 02, 1974",34.0,11,College of Charleston,1533,,2008-09
+1610612753,2008,00,Rashard Lewis,Rashard,rashard-lewis,9,F,6-10,230,"AUG 08, 1979",29.0,10,Elsik HS (TX),1740,,2008-09
+1610612753,2008,00,Tyronn Lue,Tyronn,tyronn-lue,10,G,6-0,175,"MAY 03, 1977",32.0,10,Nebraska,1731,,2008-09
+1610612753,2008,00,Courtney Lee,Courtney,courtney-lee,11,G,6-5,200,"OCT 03, 1985",23.0,R,Western Kentucky,201584,,2008-09
+1610612753,2008,00,Dwight Howard,Dwight,dwight-howard,12,C,6-11,265,"DEC 08, 1985",23.0,4,                                   ,2730,,2008-09
+1610612753,2008,00,Marcin Gortat,Marcin,marcin-gortat,13,F-C,6-11,240,"FEB 17, 1984",25.0,1,RheinEnergie Cologne,101162,,2008-09
+1610612753,2008,00,Jameer Nelson,Jameer,jameer-nelson,14,G,6-0,190,"FEB 09, 1982",27.0,4,St. Joseph's (PA),2749,,2008-09
+1610612753,2008,00,Hedo Turkoglu,Hedo,hedo-turkoglu,15,F,6-10,220,"MAR 19, 1979",30.0,8,Efes Pilsen,2045,,2008-09
+1610612753,2008,00,Mickael Pietrus,Mickael,mickael-pietrus,20,G-F,6-6,215,"FEB 07, 1982",27.0,5,Pau Orthez,2554,,2008-09
+1610612753,2008,00,Adonal Foyle,Adonal,adonal-foyle,31,C,6-10,270,"MAR 09, 1975",34.0,11,Colgate,1502,,2008-09
+1610612753,2008,00,Jeremy Richardson,Jeremy,jeremy-richardson,32,G-F,6-7,195,"MAR 01, 1984",25.0,2,Delta State,200978,,2008-09
+1610612738,2009,00,Tony Gaffney,Tony,tony-gaffney,,F,6-8,205,"NOV 14, 1984",25.0,R,Massachusetts,202070,,2009-10
+1610612738,2009,00,Oliver Lafayette,Oliver,oliver-lafayette,0,G,6-2,190,"MAY 06, 1984",26.0,R,Houston,201802,,2009-10
+1610612738,2009,00,Nate Robinson,Nate,nate-robinson,4,G,5-9,180,"MAY 31, 1984",26.0,4,Washington,101126,,2009-10
+1610612738,2009,00,Kevin Garnett,Kevin,kevin-garnett,5,F,6-11,253,"MAY 19, 1976",34.0,14,Farragut Academy HS (IL),708,,2009-10
+1610612738,2009,00,Marquis Daniels,Marquis,marquis-daniels,7,G,6-6,200,"JAN 07, 1981",29.0,6,Auburn,2605,,2009-10
+1610612738,2009,00,Rajon Rondo,Rajon,rajon-rondo,9,G,6-1,171,"FEB 22, 1986",24.0,3,Kentucky,200765,,2009-10
+1610612738,2009,00,Glen Davis,Glen,glen-davis,11,F,6-9,289,"JAN 01, 1986",24.0,2,Louisiana State,201175,,2009-10
+1610612738,2009,00,Shelden Williams,Shelden,shelden-williams,13,F-C,6-9,250,"OCT 21, 1983",26.0,3,Duke,200749,,2009-10
+1610612738,2009,00,Ray Allen,Ray,ray-allen,20,G,6-5,205,"JUL 20, 1975",34.0,13,Connecticut,951,,2009-10
+1610612738,2009,00,Rasheed Wallace,Rasheed,rasheed-wallace,30,F-C,6-11,230,"SEP 17, 1974",35.0,14,North Carolina,739,,2009-10
+1610612738,2009,00,Paul Pierce,Paul,paul-pierce,34,F,6-7,235,"OCT 13, 1977",32.0,11,Kansas,1718,,2009-10
+1610612738,2009,00,Michael Finley,Michael,michael-finley,40,G-F,6-7,225,"MAR 06, 1973",37.0,14,Wisconsin,714,,2009-10
+1610612738,2009,00,Tony Allen,Tony,tony-allen,42,G,6-4,213,"JAN 11, 1982",28.0,5,Oklahoma State,2754,,2009-10
+1610612738,2009,00,Kendrick Perkins,Kendrick,kendrick-perkins,43,C,6-10,280,"NOV 10, 1984",25.0,6,Clifton J. Ozen HS (TX),2570,,2009-10
+1610612738,2009,00,Brian Scalabrine,Brian,brian-scalabrine,44,F,6-9,235,"MAR 18, 1978",32.0,8,Southern California,2243,,2009-10
+1610612748,2010,00,Mike Bibby,Mike,mike-bibby,0,G,6-2,195,"MAY 13, 1978",33.0,12,Arizona,1710,,2010-11
+1610612748,2010,00,Chris Bosh,Chris,chris-bosh,1,F,6-11,235,"MAR 24, 1984",27.0,7,Georgia Tech,2547,,2010-11
+1610612748,2010,00,Dwyane Wade,Dwyane,dwyane-wade,3,G,6-4,220,"JAN 17, 1982",29.0,7,Marquette,2548,,2010-11
+1610612748,2010,00,Juwan Howard,Juwan,juwan-howard,5,F,6-9,250,"FEB 07, 1973",38.0,16,Michigan,436,,2010-11
+1610612748,2010,00,LeBron James,LeBron,lebron-james,6,F,6-8,250,"DEC 30, 1984",26.0,7,St. Vincent-St. Mary HS (OH),2544,,2010-11
+1610612748,2010,00,Zydrunas Ilgauskas,Zydrunas,zydrunas-ilgauskas,11,C,7-3,260,"JUN 05, 1975",36.0,12,Atletas Kaunas,980,,2010-11
+1610612748,2010,00,Mike Miller,Mike,mike-miller,13,F,6-8,218,"FEB 19, 1980",31.0,10,Florida,2034,,2010-11
+1610612748,2010,00,Mario Chalmers,Mario,mario-chalmers,15,G,6-2,190,"MAY 19, 1986",25.0,2,Kansas,201596,,2010-11
+1610612748,2010,00,Jamaal Magloire,Jamaal,jamaal-magloire,21,C,6-11,255,"MAY 21, 1978",33.0,10,Kentucky,2048,,2010-11
+1610612748,2010,00,James Jones,James,james-jones,22,F,6-8,215,"OCT 04, 1980",30.0,7,Miami,2592,,2010-11
+1610612748,2010,00,Erick Dampier,Erick,erick-dampier,25,C,6-11,265,"JUL 14, 1975",35.0,14,Mississippi State,956,,2010-11
+1610612748,2010,00,Udonis Haslem,Udonis,udonis-haslem,40,F,6-8,235,"JUN 09, 1980",31.0,7,Florida,2617,Signed on 08/01/03,2010-11
+1610612748,2010,00,Dexter Pittman,Dexter,dexter-pittman,45,C,6-11,308,"MAR 02, 1988",23.0,R,Texas-Austin,202354,,2010-11
+1610612748,2010,00,Joel Anthony,Joel,joel-anthony,50,C,6-9,245,"AUG 09, 1982",28.0,3,UNLV,201202,,2010-11
+1610612748,2010,00,Eddie House,Eddie,eddie-house,55,G,6-1,190,"MAY 14, 1978",33.0,10,Arizona State,2067,,2010-11
+1610612760,2011,00,Russell Westbrook,Russell,russell-westbrook,0,G,6-3,187,"NOV 12, 1988",23.0,3,UCLA,201566,,2011-12
+1610612760,2011,00,Thabo Sefolosha,Thabo,thabo-sefolosha,2,G,6-7,215,"MAY 02, 1984",28.0,5,Angelico Biella,200757,,2011-12
+1610612760,2011,00,Nick Collison,Nick,nick-collison,4,F-C,6-10,255,"OCT 26, 1980",31.0,7,Kansas,2555,,2011-12
+1610612760,2011,00,Kendrick Perkins,Kendrick,kendrick-perkins,5,C,6-10,270,"NOV 10, 1984",27.0,8,Clifton J. Ozen HS (TX),2570,,2011-12
+1610612760,2011,00,Eric Maynor,Eric,eric-maynor,6,G,6-3,175,"JUN 11, 1987",25.0,2,Virginia Commonwealth,201953,,2011-12
+1610612760,2011,00,Royal Ivey,Royal,royal-ivey,7,G,6-4,215,"DEC 20, 1981",30.0,7,Texas-Austin,2767,,2011-12
+1610612760,2011,00,Nazr Mohammed,Nazr,nazr-mohammed,8,C,6-10,250,"SEP 05, 1977",34.0,13,Kentucky,1737,,2011-12
+1610612760,2011,00,Serge Ibaka,Serge,serge-ibaka,9,F-C,6-10,235,"SEP 18, 1989",22.0,2,,201586,,2011-12
+1610612760,2011,00,Lazar Hayward,Lazar,lazar-hayward,11,F,6-6,225,"NOV 26, 1986",25.0,1,Marquette,202351,,2011-12
+1610612760,2011,00,James Harden,James,james-harden,13,G,6-5,220,"AUG 26, 1989",22.0,2,Arizona State,201935,,2011-12
+1610612760,2011,00,Daequan Cook,Daequan,daequan-cook,14,G,6-5,210,"APR 28, 1987",25.0,4,Ohio State,201161,,2011-12
+1610612760,2011,00,Reggie Jackson,Reggie,reggie-jackson,15,G,6-3,208,"APR 16, 1990",22.0,R,Boston College,202704,,2011-12
+1610612760,2011,00,Kevin Durant,Kevin,kevin-durant,35,F,6-9,235,"SEP 29, 1988",23.0,4,Texas,201142,,2011-12
+1610612760,2011,00,Derek Fisher,Derek,derek-fisher,37,G,6-1,210,"AUG 09, 1974",37.0,15,Arkansas-Little Rock,965,,2011-12
+1610612760,2011,00,Cole Aldrich,Cole,cole-aldrich,45,C,6-11,240,"OCT 31, 1988",23.0,1,Kansas,202332,,2011-12
+1610612759,2012,00,Tracy McGrady,Tracy,tracy-mcgrady,1,G-F,6-8,225,"MAY 24, 1979",34.0,15,Mount Zion Christian Academy (NC),1503,,2012-13
+1610612759,2012,00,Kawhi Leonard,Kawhi,kawhi-leonard,2,F-G,6-7,225,"JUN 29, 1991",22.0,1,San Diego State,202695,,2012-13
+1610612759,2012,00,Danny Green,Danny,danny-green,4,G-F,6-6,210,"JUN 22, 1987",26.0,3,North Carolina,201980,,2012-13
+1610612759,2012,00,Cory Joseph,Cory,cory-joseph,5,G,6-3,185,"AUG 20, 1991",21.0,1,Texas,202709,,2012-13
+1610612759,2012,00,Patty Mills,Patty,patty-mills,8,G,6-0,185,"AUG 11, 1988",24.0,3,St. Mary's,201988,,2012-13
+1610612759,2012,00,Tony Parker,Tony,tony-parker,9,G,6-2,185,"MAY 17, 1982",31.0,11,Paris Basket Racing,2225,,2012-13
+1610612759,2012,00,Gary Neal,Gary,gary-neal,14,G,6-4,210,"OCT 03, 1984",28.0,2,Towson,202390,,2012-13
+1610612759,2012,00,Matt Bonner,Matt,matt-bonner,15,F-C,6-10,235,"APR 05, 1980",33.0,8,Florida,2588,,2012-13
+1610612759,2012,00,Aron Baynes,Aron,aron-baynes,16,F-C,6-10,260,"DEC 09, 1986",26.0,R,Washington State,203382,,2012-13
+1610612759,2012,00,Manu Ginobili,Manu,manu-ginobili,20,G,6-6,205,"JUL 28, 1977",35.0,10,Virtus Bologna,1938,,2012-13
+1610612759,2012,00,Tim Duncan,Tim,tim-duncan,21,F,6-11,255,"APR 25, 1976",37.0,15,Wake Forest,1495,,2012-13
+1610612759,2012,00,Tiago Splitter,Tiago,tiago-splitter,22,C,6-11,240,"JAN 01, 1985",28.0,2,,201168,,2012-13
+1610612759,2012,00,Nando De Colo,Nando,nando-de-colo,25,G,6-5,200,"JUN 23, 1987",26.0,R,France,201986,,2012-13
+1610612759,2012,00,Boris Diaw,Boris,boris-diaw,33,C-F,6-8,235,"APR 16, 1982",31.0,9,Pau Orthez,2564,,2012-13
+1610612759,2012,00,DeJuan Blair,DeJuan,dejuan-blair,45,C,6-7,270,"APR 22, 1989",24.0,3,Pittsburgh,201971,,2012-13
+1610612748,2013,00,Toney Douglas,Toney,toney-douglas,0,G,6-2,195,"MAR 16, 1986",28.0,4,Florida State,201962,,2013-14
+1610612748,2013,00,Chris Bosh,Chris,chris-bosh,1,C-F,6-11,235,"MAR 24, 1984",30.0,10,Georgia Tech,2547,,2013-14
+1610612748,2013,00,Dwyane Wade,Dwyane,dwyane-wade,3,G,6-4,220,"JAN 17, 1982",32.0,10,Marquette,2548,,2013-14
+1610612748,2013,00,LeBron James,LeBron,lebron-james,6,F,6-8,250,"DEC 30, 1984",29.0,10,St. Vincent-St. Mary HS (OH),2544,,2013-14
+1610612748,2013,00,Justin Hamilton,Justin,justin-hamilton,7,C,7-0,255,"APR 01, 1990",24.0,R,Louisiana State,203120,,2013-14
+1610612748,2013,00,Michael Beasley,Michael,michael-beasley,8,F,6-10,235,"JAN 09, 1989",25.0,5,Kansas State,201563,,2013-14
+1610612748,2013,00,Rashard Lewis,Rashard,rashard-lewis,9,F,6-10,235,"AUG 08, 1979",34.0,15,Elsik HS (TX),1740,,2013-14
+1610612748,2013,00,Chris Andersen,Chris,chris-andersen,11,F-C,6-10,245,"JUL 07, 1978",35.0,11,Blinn J.C.,2365,,2013-14
+1610612748,2013,00,Mario Chalmers,Mario,mario-chalmers,15,G,6-2,190,"MAY 19, 1986",28.0,5,Kansas,201596,,2013-14
+1610612748,2013,00,Greg Oden,Greg,greg-oden,20,C,7-0,273,"JAN 22, 1988",26.0,2,Ohio State,201141,,2013-14
+1610612748,2013,00,James Jones,James,james-jones,22,F-G,6-8,215,"OCT 04, 1980",33.0,10,Miami,2592,,2013-14
+1610612748,2013,00,Norris Cole,Norris,norris-cole,30,G,6-2,175,"OCT 13, 1988",25.0,2,Cleveland State,202708,,2013-14
+1610612748,2013,00,Shane Battier,Shane,shane-battier,31,F,6-8,220,"SEP 09, 1978",35.0,12,Duke,2203,,2013-14
+1610612748,2013,00,Ray Allen,Ray,ray-allen,34,G,6-5,205,"JUL 20, 1975",38.0,17,Connecticut,951,,2013-14
+1610612748,2013,00,Udonis Haslem,Udonis,udonis-haslem,40,F,6-8,235,"JUN 09, 1980",34.0,10,Florida,2617,Signed on 08/01/03,2013-14
+1610612739,2014,00,Kevin Love,Kevin,kevin-love,0,F,6-10,243,"SEP 07, 1988",26.0,6,UCLA,201567,,2014-15
+1610612739,2014,00,James Jones,James,james-jones,1,F,6-8,215,"OCT 04, 1980",34.0,11,Miami,2592,,2014-15
+1610612739,2014,00,Kyrie Irving,Kyrie,kyrie-irving,2,G,6-3,193,"MAR 23, 1992",23.0,3,Duke,202681,,2014-15
+1610612739,2014,00,Kendrick Perkins,Kendrick,kendrick-perkins,3,C,6-10,270,"NOV 10, 1984",30.0,11,Clifton J. Ozen HS (TX),2570,,2014-15
+1610612739,2014,00,Iman Shumpert,Iman,iman-shumpert,4,G,6-5,220,"JUN 26, 1990",25.0,3,Georgia Tech,202697,,2014-15
+1610612739,2014,00,JR Smith,JR,jr-smith,5,G-F,6-6,225,"SEP 09, 1985",29.0,10,No College,2747,,2014-15
+1610612739,2014,00,Matthew Dellavedova,Matthew,matthew-dellavedova,8,G,6-4,200,"SEP 08, 1990",24.0,1,,203521,,2014-15
+1610612739,2014,00,Joe Harris,Joe,joe-harris,12,G,6-6,225,"SEP 06, 1991",23.0,R,Virginia,203925,,2014-15
+1610612739,2014,00,Tristan Thompson,Tristan,tristan-thompson,13,C-F,6-9,238,"MAR 13, 1991",24.0,3,Texas-Austin,202684,,2014-15
+1610612739,2014,00,Anderson Varejao,Anderson,anderson-varejao,17,C,6-11,267,"SEP 28, 1982",32.0,10,FC Barcelona,2760,,2014-15
+1610612739,2014,00,Mike Miller,Mike,mike-miller,18,G-F,6-8,218,"FEB 19, 1980",35.0,14,Florida,2034,,2014-15
+1610612739,2014,00,Timofey Mozgov,Timofey,timofey-mozgov,20,C,7-1,250,"JUL 16, 1986",28.0,4,Khimki,202389,,2014-15
+1610612739,2014,00,LeBron James,LeBron,lebron-james,23,F,6-8,250,"DEC 30, 1984",30.0,11,St. Vincent-St. Mary HS (OH),2544,,2014-15
+1610612739,2014,00,Shawn Marion,Shawn,shawn-marion,31,G-F,6-7,228,"MAY 07, 1978",37.0,15,UNLV,1890,,2014-15
+1610612739,2014,00,Brendan Haywood,Brendan,brendan-haywood,33,C,7-0,263,"NOV 27, 1979",35.0,12,North Carolina,2217,,2014-15
+1610612744,2015,00,Brandon Rush,Brandon,brandon-rush,4,F-G,6-6,220,"JUL 07, 1985",30.0,7,Kansas,201575,,2015-16
+1610612744,2015,00,Marreese Speights,Marreese,marreese-speights,5,F-C,6-10,255,"AUG 04, 1987",28.0,7,Florida,201578,,2015-16
+1610612744,2015,00,Andre Iguodala,Andre,andre-iguodala,9,G-F,6-6,215,"JAN 28, 1984",32.0,11,Arizona,2738,Signed on 08/10/21,2015-16
+1610612744,2015,00,Klay Thompson,Klay,klay-thompson,11,G,6-7,215,"FEB 08, 1990",26.0,4,Washington State,202691,#11 Pick in 2011 Draft,2015-16
+1610612744,2015,00,Andrew Bogut,Andrew,andrew-bogut,12,C,7-0,260,"NOV 28, 1984",31.0,10,Utah,101106,,2015-16
+1610612744,2015,00,Anderson Varejao,Anderson,anderson-varejao,18,F,6-11,273,"SEP 28, 1982",33.0,11,FC Barcelona,2760,,2015-16
+1610612744,2015,00,Leandro Barbosa,Leandro,leandro-barbosa,19,G,6-3,194,"NOV 28, 1982",33.0,12,Bauru,2571,,2015-16
+1610612744,2015,00,James Michael McAdoo,James Michael,james-michael-mcadoo,20,F,6-9,240,"JAN 04, 1993",23.0,1,North Carolina,203949,,2015-16
+1610612744,2015,00,Ian Clark,Ian,ian-clark,21,G,6-3,175,"MAR 07, 1991",25.0,2,Belmont,203546,,2015-16
+1610612744,2015,00,Draymond Green,Draymond,draymond-green,23,F,6-7,230,"MAR 04, 1990",26.0,3,Michigan State,203110,#35 Pick in 2012 Draft,2015-16
+1610612744,2015,00,Stephen Curry,Stephen,stephen-curry,30,G,6-3,190,"MAR 14, 1988",28.0,6,Davidson,201939,#7 Pick in 2009 Draft,2015-16
+1610612744,2015,00,Festus Ezeli,Festus,festus-ezeli,31,C,6-11,265,"OCT 21, 1989",26.0,2,Vanderbilt,203105,,2015-16
+1610612744,2015,00,Shaun Livingston,Shaun,shaun-livingston,34,G,6-7,192,"SEP 11, 1985",30.0,10,No College,2733,,2015-16
+1610612744,2015,00,Kevon Looney,Kevon,kevon-looney,36,F,6-9,220,"FEB 06, 1996",20.0,R,UCLA,1626172,#30 Pick in 2015 Draft,2015-16
+1610612744,2015,00,Harrison Barnes,Harrison,harrison-barnes,40,F,6-8,225,"MAY 30, 1992",24.0,3,North Carolina,203084,,2015-16
+1610612739,2016,00,Kevin Love,Kevin,kevin-love,0,F,6-10,251,"SEP 07, 1988",28.0,8,UCLA,201567,,2016-17
+1610612739,2016,00,James Jones,James,james-jones,1,G-F,6-8,218,"OCT 04, 1980",36.0,13,Miami,2592,,2016-17
+1610612739,2016,00,Kyrie Irving,Kyrie,kyrie-irving,2,G,6-3,193,"MAR 23, 1992",25.0,5,Duke,202681,,2016-17
+1610612739,2016,00,Derrick Williams,Derrick,derrick-williams,3,F,6-8,240,"MAY 25, 1991",26.0,5,Arizona,202682,,2016-17
+1610612739,2016,00,Iman Shumpert,Iman,iman-shumpert,4,G,6-5,220,"JUN 26, 1990",27.0,5,Georgia Tech,202697,,2016-17
+1610612739,2016,00,JR Smith,JR,jr-smith,5,G,6-6,225,"SEP 09, 1985",31.0,12,No College,2747,,2016-17
+1610612739,2016,00,Channing Frye,Channing,channing-frye,8,F,6-11,255,"MAY 17, 1983",34.0,10,Arizona,101112,,2016-17
+1610612739,2016,00,Tristan Thompson,Tristan,tristan-thompson,13,C,6-9,238,"MAR 13, 1991",26.0,5,Texas-Austin,202684,,2016-17
+1610612739,2016,00,Kay Felder,Kay,kay-felder,20,G,5-9,176,"MAR 29, 1995",22.0,R,Oakland,1627770,,2016-17
+1610612739,2016,00,LeBron James,LeBron,lebron-james,23,F,6-8,250,"DEC 30, 1984",32.0,13,St. Vincent-St. Mary HS (OH),2544,,2016-17
+1610612739,2016,00,Richard Jefferson,Richard,richard-jefferson,24,F,6-7,233,"JUN 21, 1980",37.0,15,Arizona,2210,,2016-17
+1610612739,2016,00,Kyle Korver,Kyle,kyle-korver,26,G,6-7,212,"MAR 17, 1981",36.0,13,Creighton,2594,,2016-17
+1610612739,2016,00,Dahntay Jones,Dahntay,dahntay-jones,30,G-F,6-6,225,"DEC 27, 1980",36.0,12,Duke,2563,,2016-17
+1610612739,2016,00,Deron Williams,Deron,deron-williams,31,G,6-3,200,"JUN 26, 1984",33.0,11,Illinois,101114,,2016-17
+1610612739,2016,00,Edy Tavares,Edy,edy-tavares,40,C,7-3,265,"MAR 22, 1992",25.0,1,Gran Canaria,204002,,2016-17
+1610612739,2017,00,Kevin Love,Kevin,kevin-love,0,C-F,6-10,251,"SEP 07, 1988",29.0,9,UCLA,201567,,2017-18
+1610612739,2017,00,Rodney Hood,Rodney,rodney-hood,1,G,6-8,206,"OCT 20, 1992",25.0,3,Duke,203918,,2017-18
+1610612739,2017,00,George Hill,George,george-hill,3,G,6-3,188,"MAY 04, 1986",32.0,9,Indiana-Purdue Indianapolis,201588,,2017-18
+1610612739,2017,00,JR Smith,JR,jr-smith,5,G-F,6-6,225,"SEP 09, 1985",32.0,13,No College,2747,,2017-18
+1610612739,2017,00,Jordan Clarkson,Jordan,jordan-clarkson,8,G,6-5,194,"JUN 07, 1992",26.0,3,Missouri,203903,,2017-18
+1610612739,2017,00,Tristan Thompson,Tristan,tristan-thompson,13,C-F,6-9,238,"MAR 13, 1991",27.0,6,Texas-Austin,202684,,2017-18
+1610612739,2017,00,Okaro White,Okaro,okaro-white,15,F,6-8,215,"AUG 13, 1992",25.0,1,Florida State,1627855,,2017-18
+1610612739,2017,00,Cedi Osman,Cedi,cedi-osman,16,F-G,6-8,215,"APR 08, 1995",23.0,R,Anadolu Efes,1626224,,2017-18
+1610612739,2017,00,Kendrick Perkins,Kendrick,kendrick-perkins,21,C,6-10,270,"NOV 10, 1984",33.0,13,Clifton J. Ozen HS (TX),2570,,2017-18
+1610612739,2017,00,Larry Nance Jr.,Larry,larry-nance-jr,22,F,6-9,230,"JAN 01, 1993",25.0,2,Wyoming,1626204,,2017-18
+1610612739,2017,00,LeBron James,LeBron,lebron-james,23,F-G,6-8,250,"DEC 30, 1984",33.0,14,St. Vincent-St. Mary HS (OH),2544,,2017-18
+1610612739,2017,00,Kyle Korver,Kyle,kyle-korver,26,G,6-7,212,"MAR 17, 1981",37.0,14,Creighton,2594,,2017-18
+1610612739,2017,00,Jeff Green,Jeff,jeff-green,32,F,6-9,235,"AUG 28, 1986",31.0,9,Georgetown,201145,,2017-18
+1610612739,2017,00,Ante Zizic,Ante,ante-zizic,41,F-C,6-11,250,"JAN 04, 1997",21.0,R,Darussafaka,1627790,,2017-18
+1610612739,2017,00,Jose Calderon,Jose,jose-calderon,81,G,6-3,200,"SEP 28, 1981",36.0,12,Tau Ceramica,101181,,2017-18
+1610612744,2018,00,DeMarcus Cousins,DeMarcus,demarcus-cousins,0,C,6-11,270,"AUG 13, 1990",28.0,8,Kentucky,202326,,2018-19
+1610612744,2018,00,Damion Lee,Damion,damion-lee,1,G,6-6,210,"OCT 21, 1992",26.0,1,Drexel,1627814,,2018-19
+1610612744,2018,00,Jordan Bell,Jordan,jordan-bell,2,F,6-9,224,"JAN 07, 1995",24.0,1,Oregon,1628395,,2018-19
+1610612744,2018,00,Quinn Cook,Quinn,quinn-cook,4,G,6-2,179,"MAR 23, 1993",26.0,2,Duke,1626188,,2018-19
+1610612744,2018,00,Kevon Looney,Kevon,kevon-looney,5,C-F,6-9,220,"FEB 06, 1996",23.0,3,UCLA,1626172,#30 Pick in 2015 Draft,2018-19
+1610612744,2018,00,Andre Iguodala,Andre,andre-iguodala,9,F-G,6-6,215,"JAN 28, 1984",35.0,14,Arizona,2738,Signed on 08/10/21,2018-19
+1610612744,2018,00,Jacob Evans,Jacob,jacob-evans,10,G,6-6,210,"JUN 18, 1997",22.0,R,Cincinnati,1628980,,2018-19
+1610612744,2018,00,Klay Thompson,Klay,klay-thompson,11,G,6-7,215,"FEB 08, 1990",29.0,7,Washington State,202691,#11 Pick in 2011 Draft,2018-19
+1610612744,2018,00,Andrew Bogut,Andrew,andrew-bogut,12,C,7-0,260,"NOV 28, 1984",34.0,13,Utah,101106,,2018-19
+1610612744,2018,00,Damian Jones,Damian,damian-jones,15,C,7-0,245,"JUN 30, 1995",24.0,2,Vanderbilt,1627745,,2018-19
+1610612744,2018,00,Jonas Jerebko,Jonas,jonas-jerebko,21,F,6-10,231,"MAR 02, 1987",32.0,8,                                   ,201973,,2018-19
+1610612744,2018,00,Draymond Green,Draymond,draymond-green,23,F,6-7,230,"MAR 04, 1990",29.0,6,Michigan State,203110,#35 Pick in 2012 Draft,2018-19
+1610612744,2018,00,Alfonzo McKinnie,Alfonzo,alfonzo-mckinnie,28,F,6-8,215,"SEP 17, 1992",26.0,1,Wisconsin-Green Bay,1628035,,2018-19
+1610612744,2018,00,Stephen Curry,Stephen,stephen-curry,30,G,6-3,190,"MAR 14, 1988",31.0,9,Davidson,201939,#7 Pick in 2009 Draft,2018-19
+1610612744,2018,00,Marcus Derrickson,Marcus,marcus-derrickson,32,F,6-7,249,"FEB 01, 1996",23.0,R,Georgetown,1629094,,2018-19
+1610612744,2018,00,Shaun Livingston,Shaun,shaun-livingston,34,G,6-7,192,"SEP 11, 1985",33.0,13,No College,2733,,2018-19
+1610612744,2018,00,Kevin Durant,Kevin,kevin-durant,35,F,6-9,240,"SEP 29, 1988",30.0,11,Texas,201142,,2018-19
+1610612748,2019,00,Meyers Leonard,Meyers,meyers-leonard,0,F-C,7-0,260,"FEB 27, 1992",28.0,7,Illinois,203086,,2019-20
+1610612748,2019,00,Gabe Vincent,Gabe,gabe-vincent,2,G,6-3,200,"JUN 14, 1996",24.0,R,California-Santa Barbara,1629216,,2019-20
+1610612748,2019,00,KZ Okpala,KZ,kz-okpala,4,F-G,6-8,215,"APR 28, 1999",21.0,R,Stanford,1629644,,2019-20
+1610612748,2019,00,Derrick Jones Jr.,Derrick,derrick-jones-jr,5,F,6-6,210,"FEB 15, 1997",23.0,3,UNLV,1627884,,2019-20
+1610612748,2019,00,Goran Dragic,Goran,goran-dragic,7,G,6-3,190,"MAY 06, 1986",34.0,11,Union Olimpija,201609,,2019-20
+1610612748,2019,00,Kelly Olynyk,Kelly,kelly-olynyk,9,F-C,6-11,240,"APR 19, 1991",29.0,6,Gonzaga,203482,,2019-20
+1610612748,2019,00,Bam Adebayo,Bam,bam-adebayo,13,C-F,6-9,255,"JUL 18, 1997",22.0,2,Kentucky,1628389,#14 Pick in 2017 Draft,2019-20
+1610612748,2019,00,Tyler Herro,Tyler,tyler-herro,14,G,6-5,195,"JAN 20, 2000",20.0,R,Kentucky,1629639,#13 Pick in 2019 Draft,2019-20
+1610612748,2019,00,Kyle Alexander,Kyle,kyle-alexander,17,F-C,6-10,216,"OCT 21, 1996",23.0,R,Tennessee,1629734,,2019-20
+1610612748,2019,00,Jimmy Butler,Jimmy,jimmy-butler,22,F,6-7,230,"SEP 14, 1989",30.0,8,Marquette,202710,Traded from PHI on 07/06/19,2019-20
+1610612748,2019,00,Kendrick Nunn,Kendrick,kendrick-nunn,25,G,6-2,190,"AUG 03, 1995",24.0,R,Oakland,1629134,,2019-20
+1610612748,2019,00,Andre Iguodala,Andre,andre-iguodala,28,G-F,6-6,215,"JAN 28, 1984",36.0,15,Arizona,2738,,2019-20
+1610612748,2019,00,Chris Silva,Chris,chris-silva,30,F,6-8,234,"SEP 19, 1996",23.0,R,South Carolina,1629735,,2019-20
+1610612748,2019,00,Udonis Haslem,Udonis,udonis-haslem,40,F,6-8,235,"JUN 09, 1980",40.0,16,Florida,2617,Signed on 08/01/03,2019-20
+1610612748,2019,00,Solomon Hill,Solomon,solomon-hill,44,F,6-6,226,"MAR 18, 1991",29.0,6,Arizona,203524,,2019-20
+1610612748,2019,00,Duncan Robinson,Duncan,duncan-robinson,55,F,6-7,215,"APR 22, 1994",26.0,1,Michigan,1629130,Signed on 07/10/18,2019-20
+1610612748,2019,00,Jae Crowder,Jae,jae-crowder,99,F,6-6,235,"JUL 06, 1990",29.0,7,Marquette,203109,,2019-20
+1610612756,2020,00,Ty-Shon Alexander,Ty-Shon,ty-shon-alexander,0,G,6-3,195,"JUL 16, 1998",22.0,R,Creighton,1630234,,2020-21
+1610612756,2020,00,Devin Booker,Devin,devin-booker,1,G,6-5,206,"OCT 30, 1996",24.0,5,Kentucky,1626164,#13 Pick in 2015 Draft,2020-21
+1610612756,2020,00,Langston Galloway,Langston,langston-galloway,2,G,6-1,200,"DEC 09, 1991",29.0,6,St. Joseph's (PA),204038,,2020-21
+1610612756,2020,00,Chris Paul,Chris,chris-paul,3,G,6-0,175,"MAY 06, 1985",36.0,15,Wake Forest,101108,,2020-21
+1610612756,2020,00,Jevon Carter,Jevon,jevon-carter,4,G,6-1,200,"SEP 14, 1995",25.0,2,West Virginia,1628975,,2020-21
+1610612756,2020,00,Frank Kaminsky,Frank,frank-kaminsky,8,F-C,7-0,240,"APR 04, 1993",28.0,5,Wisconsin,1626163,,2020-21
+1610612756,2020,00,Jalen Smith,Jalen,jalen-smith,10,F-C,6-10,215,"MAR 16, 2000",21.0,R,Maryland,1630188,,2020-21
+1610612756,2020,00,Abdel Nader,Abdel,abdel-nader,11,F,6-5,225,"SEP 25, 1993",27.0,3,Iowa State,1627846,,2020-21
+1610612756,2020,00,Torrey Craig,Torrey,torrey-craig,12,F,6-7,221,"DEC 19, 1990",30.0,3,South Carolina Upstate,1628470,,2020-21
+1610612756,2020,00,Cameron Payne,Cameron,cameron-payne,15,G,6-1,183,"AUG 08, 1994",26.0,5,Murray State,1626166,,2020-21
+1610612756,2020,00,Dario Saric,Dario,dario-saric,20,F-C,6-10,225,"APR 08, 1994",27.0,4,Anadolu Efes,203967,,2020-21
+1610612756,2020,00,Deandre Ayton,Deandre,deandre-ayton,22,C,6-11,250,"JUL 23, 1998",22.0,2,Arizona,1629028,#1 Pick in 2018 Draft,2020-21
+1610612756,2020,00,Cameron Johnson,Cameron,cameron-johnson,23,F,6-8,210,"MAR 03, 1996",25.0,1,North Carolina,1629661,,2020-21
+1610612756,2020,00,Mikal Bridges,Mikal,mikal-bridges,25,F,6-6,209,"AUG 30, 1996",24.0,2,Villanova,1628969,,2020-21
+1610612756,2020,00,E'Twaun Moore,E'Twaun,etwaun-moore,55,G,6-3,191,"FEB 25, 1989",32.0,9,Purdue,202734,,2020-21
+1610612756,2020,00,Jae Crowder,Jae,jae-crowder,99,F,6-6,235,"JUL 06, 1990",30.0,8,Marquette,203109,,2020-21
+1610612738,2021,00,Matt Ryan,Matt,matt-ryan,,F,6-7,215,"APR 17, 1997",25.0,R,Tennessee-Chattanooga,1630346,,2021-22
+1610612738,2021,00,Jayson Tatum,Jayson,jayson-tatum,0,F-G,6-8,210,"MAR 03, 1998",24.0,4,Duke,1628369,#3 Pick in 2017 Draft,2021-22
+1610612738,2021,00,Jaylen Brown,Jaylen,jaylen-brown,7,G-F,6-6,223,"OCT 24, 1996",25.0,5,California,1627759,#3 Pick in 2016 Draft,2021-22
+1610612738,2021,00,Malik Fitts,Malik,malik-fitts,8,F,6-5,230,"JUL 04, 1997",24.0,1,,1630238,,2021-22
+1610612738,2021,00,Derrick White,Derrick,derrick-white,9,G,6-4,190,"JUL 02, 1994",27.0,4,Colorado,1628401,Traded from SAS on 02/10/22,2021-22
+1610612738,2021,00,Payton Pritchard,Payton,payton-pritchard,11,G,6-1,195,"JAN 28, 1998",24.0,1,Oregon,1630202,#26 Pick in 2020 Draft,2021-22
+1610612738,2021,00,Grant Williams,Grant,grant-williams,12,F,6-6,236,"NOV 30, 1998",23.0,2,Tennessee,1629684,,2021-22
+1610612738,2021,00,Nik Stauskas,Nik,nik-stauskas,13,G,6-6,207,"OCT 07, 1993",28.0,5,Michigan,203917,,2021-22
+1610612738,2021,00,Juwan Morgan,Juwan,juwan-morgan,16,F,6-7,232,"APR 17, 1997",25.0,2,Indiana,1629752,,2021-22
+1610612738,2021,00,Aaron Nesmith,Aaron,aaron-nesmith,26,G-F,6-5,215,"OCT 16, 1999",22.0,1,Vanderbilt,1630174,,2021-22
+1610612738,2021,00,Daniel Theis,Daniel,daniel-theis,27,F-C,6-9,245,"APR 04, 1992",30.0,4,Brose Bamberg,1628464,,2021-22
+1610612738,2021,00,Sam Hauser,Sam,sam-hauser,30,F,6-7,217,"DEC 08, 1997",24.0,R,Virginia,1630573,Signed on 08/13/21,2021-22
+1610612738,2021,00,Marcus Smart,Marcus,marcus-smart,36,G,6-4,220,"MAR 06, 1994",28.0,7,Oklahoma State,203935,,2021-22
+1610612738,2021,00,Luke Kornet,Luke,luke-kornet,40,C-F,7-2,250,"JUL 15, 1995",26.0,4,Vanderbilt,1628436,Signed on 02/11/22,2021-22
+1610612738,2021,00,Al Horford,Al,al-horford,42,C-F,6-9,240,"JUN 03, 1986",36.0,14,Florida,201143,Traded from OKC on 06/18/21,2021-22
+1610612738,2021,00,Robert Williams III,Robert,robert-williams-iii,44,C-F,6-9,237,"OCT 17, 1997",24.0,3,Texas A&M,1629057,#27 Pick in 2018 Draft,2021-22
+1610612738,2021,00,Brodric Thomas,Brodric,brodric-thomas,97,G,6-5,185,"JAN 28, 1997",25.0,1,Truman State,1630271,,2021-22
+1610612748,2022,00,Kevin Love,Kevin,kevin-love,0,F-C,6-8,251,"SEP 07, 1988",34.0,14,UCLA,201567,Signed on 02/20/23,2022-23
+1610612748,2022,00,Gabe Vincent,Gabe,gabe-vincent,2,G,6-2,200,"JUN 14, 1996",27.0,3,California-Santa Barbara,1629216,,2022-23
+1610612748,2022,00,Victor Oladipo,Victor,victor-oladipo,4,G,6-3,213,"MAY 04, 1992",31.0,9,Indiana,203506,,2022-23
+1610612748,2022,00,Nikola Jovic,Nikola,nikola-jovic,5,F,6-10,205,"JUN 09, 2003",20.0,R,Mega Basket,1631107,#27 Pick in 2022 Draft,2022-23
+1610612748,2022,00,Kyle Lowry,Kyle,kyle-lowry,7,G,6-0,196,"MAR 25, 1986",37.0,16,Villanova,200768,Traded from TOR on 08/06/21,2022-23
+1610612748,2022,00,Jamal Cain,Jamal,jamal-cain,8,F,6-6,191,"MAR 20, 1999",24.0,R,Oakland,1631288,Signed on 07/15/22,2022-23
+1610612748,2022,00,Bam Adebayo,Bam,bam-adebayo,13,C-F,6-9,255,"JUL 18, 1997",25.0,5,Kentucky,1628389,#14 Pick in 2017 Draft,2022-23
+1610612748,2022,00,Tyler Herro,Tyler,tyler-herro,14,G,6-5,195,"JAN 20, 2000",23.0,3,Kentucky,1629639,#13 Pick in 2019 Draft,2022-23
+1610612748,2022,00,Caleb Martin,Caleb,caleb-martin,16,F,6-5,205,"SEP 28, 1995",27.0,3,Nevada,1628997,Signed on 09/14/21,2022-23
+1610612748,2022,00,Jimmy Butler,Jimmy,jimmy-butler,22,F,6-7,230,"SEP 14, 1989",33.0,11,Marquette,202710,Traded from PHI on 07/06/19,2022-23
+1610612748,2022,00,Haywood Highsmith,Haywood,haywood-highsmith,24,F,6-5,220,"DEC 09, 1996",26.0,2,Wheeling Jesuit,1629312,Signed on 12/30/21,2022-23
+1610612748,2022,00,Orlando Robinson,Orlando,orlando-robinson,25,C,6-10,235,"JUL 10, 2000",22.0,R,Fresno State,1631115,Signed on 07/06/22,2022-23
+1610612748,2022,00,Max Strus,Max,max-strus,31,G-F,6-5,215,"MAR 28, 1996",27.0,3,DePaul,1629622,,2022-23
+1610612748,2022,00,Udonis Haslem,Udonis,udonis-haslem,40,F,6-7,235,"JUN 09, 1980",43.0,19,Florida,2617,Signed on 08/01/03,2022-23
+1610612748,2022,00,Cody Zeller,Cody,cody-zeller,44,F-C,6-11,240,"OCT 05, 1992",30.0,9,Indiana,203469,,2022-23
+1610612748,2022,00,Duncan Robinson,Duncan,duncan-robinson,55,F,6-7,215,"APR 22, 1994",29.0,4,Michigan,1629130,Signed on 07/10/18,2022-23
+1610612748,2022,00,Omer Yurtseven,Omer,omer-yurtseven,77,C,6-11,275,"JUN 19, 1998",25.0,1,Georgetown,1630209,,2022-23

@@ -351,7 +351,7 @@ TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BI
 1610612765,1988,00,James Edwards,James,james-edwards,53,C,7-1,225,"NOV 22, 1955",33.0,11,Washington,229,,1988-89
 1610612765,1988,00,Steve Harris,Steve,steve-harris,35,G,6-5,195,"OCT 15, 1963",25.0,3,Tulsa,76960,,1988-89
 1610612765,1988,00,Vinnie Johnson,Vinnie,vinnie-johnson,15,G,6-2,200,"SEP 01, 1956",32.0,9,Baylor,77167,,1988-89
-1610612765,1988,00,Bill Laimbeer,Bill,bill-laimbeer,40,C,6-11,245,"JAN 01, 1900",32.0,8,,100263,,1988-89
+1610612765,1988,00,Bill Laimbeer,Bill,bill-laimbeer,40,C,6-11,245,"JAN 01, 1900",89.0,8,,100263,,1988-89
 1610612765,1988,00,John Long,John,john-long,25,G,6-5,195,"AUG 28, 1956",32.0,10,Detroit,1381,,1988-89
 1610612765,1988,00,Rick Mahorn,Rick,rick-mahorn,44,F,6-10,240,"SEP 21, 1958",30.0,8,Hampton,328,,1988-89
 1610612765,1988,00,Dennis Rodman,Dennis,dennis-rodman,10,F,6-7,210,"MAY 13, 1961",28.0,2,Southeastern Oklahoma State,23,,1988-89
@@ -367,7 +367,7 @@ TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BI
 1610612765,1989,00,Gerald Henderson,Gerald,gerald-henderson,12,G,6-2,175,"JAN 16, 1956",34.0,10,Virginia Commonwealth,76993,,1989-90
 1610612765,1989,00,Vinnie Johnson,Vinnie,vinnie-johnson,15,G,6-2,200,"SEP 01, 1956",33.0,10,Baylor,77167,,1989-90
 1610612765,1989,00,Stan Kimbrough,Stan,stan-kimbrough,3,F,5-11,153,"APR 24, 1966",24.0,R,Xavier,77261,,1989-90
-1610612765,1989,00,Bill Laimbeer,Bill,bill-laimbeer,40,C,6-11,245,"JAN 01, 1900",30.0,9,,100263,,1989-90
+1610612765,1989,00,Bill Laimbeer,Bill,bill-laimbeer,40,C,6-11,245,"JAN 01, 1900",90.0,9,,100263,,1989-90
 1610612765,1989,00,Dennis Rodman,Dennis,dennis-rodman,10,F,6-7,210,"MAY 13, 1961",29.0,3,Southeastern Oklahoma State,23,,1989-90
 1610612765,1989,00,John Salley,John,john-salley,22,F,6-11,230,"MAY 16, 1964",26.0,3,Georgia Tech,927,,1989-90
 1610612765,1989,00,Isiah Thomas,Isiah,isiah-thomas,11,G,6-1,180,"APR 30, 1961",29.0,8,Indiana,78318,,1989-90
@@ -411,7 +411,7 @@ TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BI
 1610612741,1992,00,Trent Tucker,Trent,trent-tucker,6,G,6-5,193,"DEC 20, 1959",33.0,10,Minnesota,78375,,1992-93
 1610612741,1992,00,Darrell Walker,Darrell,darrell-walker,20,G,6-4,180,"MAR 09, 1961",32.0,9,Arkansas,78437,,1992-93
 1610612741,1992,00,Scott Williams,Scott,scott-williams,42,F-C,6-10,260,"MAR 21, 1968",25.0,2,North Carolina,281,,1992-93
-1610612741,1992,00,Corey Williams,Corey,corey-williams,12,G,6-3,190,"AUG 08, 1977",22.0,R,Oklahoma State,101258,,1992-93
+1610612741,1992,00,Corey Williams,Corey,corey-williams,12,G,6-3,190,"AUG 08, 1977",15.0,R,Oklahoma State,101258,,1992-93
 1610612745,1993,00,Scott Brooks,Scott,scott-brooks,1,G,5-11,165,"JUL 31, 1965",28.0,5,California-Irvine,418,,1993-94
 1610612745,1993,00,Matt Bullard,Matt,matt-bullard,50,F,6-10,215,"JUN 05, 1967",27.0,3,Iowa,672,,1993-94
 1610612745,1993,00,Sam Cassell,Sam,sam-cassell,10,G,6-3,195,"NOV 18, 1969",24.0,R,Florida State,208,,1993-94
